@@ -1,65 +1,290 @@
 [
     {
+        "video_id": "fIj1tOCsVGU",
+        "title": "Podcast Keluarga Artis S2  Ep  38 – Tiara Andini Dateng ke Basecamp Para Idol",
+        "publishedAt": "2026-09-13T09:00:06Z",
+        "duration": "PT52M12S",
+        "viewCount": "353684",
+        "likeCount": "5573",
+        "commentCount": "265"
+    },
+    {
+        "video_id": "rIJOnE3BEmY",
+        "title": "VLOG Keluarga Artis Ep. 12 - Cari Hantu Bareng Jurnalrisa & Ghost Ranger",
+        "publishedAt": "2026-09-12T14:00:01Z",
+        "duration": "PT35M28S",
+        "viewCount": "244391",
+        "likeCount": "5665",
+        "commentCount": "270"
+    },
+    {
+        "video_id": "Q_PB_MmJTT8",
+        "title": "Podcast Keluarga Artis S2 | Ep  37 – Taskya Marah Umay Udah Gak Imut lagi",
+        "publishedAt": "2026-09-06T09:00:06Z",
+        "duration": "PT1H1M34S",
+        "viewCount": "296491",
+        "likeCount": "4553",
+        "commentCount": "162"
+    },
+    {
+        "video_id": "HQf1lVJKdaI",
+        "title": "Podcast Keluarga Artis S2 | Ep. 36 – Vino Sekarang Udah Sukses",
+        "publishedAt": "2026-08-30T09:00:06Z",
+        "duration": "PT56M34S",
+        "viewCount": "510361",
+        "likeCount": "7503",
+        "commentCount": "479"
+    },
+    {
+        "video_id": "nX5CglpYeb0",
+        "title": "Podcast Keluarga Artis S2 | Ep. 35 – Yuk, Manifesting Bersama Kami!",
+        "publishedAt": "2026-08-23T09:00:06Z",
+        "duration": "PT49M33S",
+        "viewCount": "229533",
+        "likeCount": "6173",
+        "commentCount": "366"
+    },
+    {
+        "video_id": "sGR31HxvkMA",
+        "title": "Podcast Keluarga Artis S2 | Ep. 34 – Dwihanda & Putra, Sahabat Awal Karir Mario",
+        "publishedAt": "2026-08-16T09:00:06Z",
+        "duration": "PT1H12M52S",
+        "viewCount": "263809",
+        "likeCount": "7300",
+        "commentCount": "395"
+    },
+    {
+        "video_id": "EljEyRBIGiQ",
+        "title": "Podcast Keluarga Artis S2 | Ep. 33 – MARCO & MARLO MEMBUAT PKA MENJADI 21+",
+        "publishedAt": "2026-08-09T09:00:06Z",
+        "duration": "PT1H8M51S",
+        "viewCount": "411659",
+        "likeCount": "10085",
+        "commentCount": "1116"
+    },
+    {
+        "video_id": "czJ-dtuyAMY",
+        "title": "Podcast Keluarga Artis S2 | Ep. 32 – Ternyata Ify dan Pricil Juga Punya Keluarga Artis",
+        "publishedAt": "2026-08-02T09:00:06Z",
+        "duration": "PT59M11S",
+        "viewCount": "725338",
+        "likeCount": "20572",
+        "commentCount": "874"
+    },
+    {
+        "video_id": "_ckwdXzELK8",
+        "title": "Podcast Keluarga Artis S2 | Ep. 31 – ZuMa, Duo yang Mulai Menguasai Internet",
+        "publishedAt": "2026-07-26T09:00:06Z",
+        "duration": "PT57M38S",
+        "viewCount": "258287",
+        "likeCount": "8332",
+        "commentCount": "496"
+    },
+    {
+        "video_id": "OOyGVK5VBGo",
+        "title": "NPD WORLD TOUR",
+        "publishedAt": "2026-07-24T02:17:39Z",
+        "duration": "PT11H54M59S",
+        "viewCount": "79911",
+        "likeCount": "2155",
+        "commentCount": "20"
+    },
+    {
+        "video_id": "-usGMhM7A6I",
+        "title": "Adik, Bang Io & Sonia diundang YouTube Indonesia & Jepang ke Music Awards Japan.",
+        "publishedAt": "2026-07-20T05:45:14Z",
+        "duration": "PT1M58S",
+        "viewCount": "26819",
+        "likeCount": "2368",
+        "commentCount": "8"
+    },
+    {
+        "video_id": "8MxFDkbYXu4",
+        "title": "Podcast Keluarga Artis S2 | Ep. 30 – Iqbaal & Zulfa Pernah Jadi Copet, Sonia Kecewa",
+        "publishedAt": "2026-07-19T09:00:06Z",
+        "duration": "PT1H9M52S",
+        "viewCount": "1042095",
+        "likeCount": "28522",
+        "commentCount": "1121"
+    },
+    {
+        "video_id": "knK68kMJtuI",
+        "title": "VLOG Keluarga Artis Ep. 11 - Menamatkan Kota Tokyo! (VLOG Jepang PART 2)",
+        "publishedAt": "2026-07-17T14:15:22Z",
+        "duration": "PT53M59S",
+        "viewCount": "96577",
+        "likeCount": "3255",
+        "commentCount": "192"
+    },
+    {
+        "video_id": "UpOss1FuNTw",
+        "title": "Podcast Keluarga Artis S2 | Ep. 29 – Konsultasi bersama dr. Gia & drg. Audrey",
+        "publishedAt": "2026-07-12T09:00:06Z",
+        "duration": "PT1H12M",
+        "viewCount": "303180",
+        "likeCount": "10106",
+        "commentCount": "478"
+    },
+    {
+        "video_id": "lNVFdHubz0w",
+        "title": "VLOG Keluarga Artis Ep. 10 - Berburu One Piece di Jepang! (PART 1)",
+        "publishedAt": "2026-07-10T14:03:49Z",
+        "duration": "PT29M39S",
+        "viewCount": "134667",
+        "likeCount": "5059",
+        "commentCount": "309"
+    },
+    {
+        "video_id": "Sle4ajtG9AE",
+        "title": "Podcast Keluarga Artis S2 | Ep. 28 – Pengalaman di Jepang",
+        "publishedAt": "2026-07-05T09:00:06Z",
+        "duration": "PT50M47S",
+        "viewCount": "197372",
+        "likeCount": "6116",
+        "commentCount": "222"
+    },
+    {
+        "video_id": "tA85xXm5Jec",
+        "title": "Podcast Keluarga Artis S2 | Ep. 27 – Cerdas Bersama Vior",
+        "publishedAt": "2026-06-28T09:00:07Z",
+        "duration": "PT46M18S",
+        "viewCount": "489923",
+        "likeCount": "16392",
+        "commentCount": "733"
+    },
+    {
+        "video_id": "DBgWJuMTObE",
+        "title": "Podcast Keluarga Artis S2 | Ep. 26 – Ternyata RAN Adalah Grup Musik Idola Mario",
+        "publishedAt": "2026-06-21T09:00:08Z",
+        "duration": "PT57M43S",
+        "viewCount": "311083",
+        "likeCount": "10045",
+        "commentCount": "332"
+    },
+    {
+        "video_id": "2t_Mw9a6FBo",
+        "title": "Keluarga Artis Jalan-jalan | Ep. 1 - Podcast di Mobil bareng NPD!",
+        "publishedAt": "2026-06-19T13:21:37Z",
+        "duration": "PT37M5S",
+        "viewCount": "121084",
+        "likeCount": "5692",
+        "commentCount": "449"
+    },
+    {
+        "video_id": "znFK9KmhCjU",
+        "title": "Podcast Keluarga Artis S2 | Ep. 25 – Ocky Chelsea, Kakaknya Niky yang Hobi COD Knalpot",
+        "publishedAt": "2026-06-14T09:00:07Z",
+        "duration": "PT53M22S",
+        "viewCount": "378358",
+        "likeCount": "15660",
+        "commentCount": "839"
+    },
+    {
+        "video_id": "Tp_nGotCjYw",
+        "title": "VLOG Keluarga Artis Ep. 9 -  Rutinitas Sebelum Shooting Podcast",
+        "publishedAt": "2026-06-12T10:00:30Z",
+        "duration": "PT17M56S",
+        "viewCount": "84111",
+        "likeCount": "3685",
+        "commentCount": "118"
+    },
+    {
+        "video_id": "TihL1nirXMw",
+        "title": "Podcast Keluarga Artis diundang ke Music Awards Japan!",
+        "publishedAt": "2026-06-10T11:55:06Z",
+        "duration": "PT1M8S",
+        "viewCount": "57519",
+        "likeCount": "3514",
+        "commentCount": "37"
+    },
+    {
+        "video_id": "QvJ-daBtGak",
+        "title": "Podcast Keluarga Artis S2 | Ep. 24 – Bedah Logika Bersama Indra Frimawan",
+        "publishedAt": "2026-06-07T09:00:06Z",
+        "duration": "PT1H7M3S",
+        "viewCount": "247791",
+        "likeCount": "7138",
+        "commentCount": "381"
+    },
+    {
+        "video_id": "DUkVgytLsV8",
+        "title": "VLOG Keluarga Artis Ep. 8 - Berkegiatan seru di Bali lagi!",
+        "publishedAt": "2026-06-05T10:00:31Z",
+        "duration": "PT28M55S",
+        "viewCount": "78870",
+        "likeCount": "3525",
+        "commentCount": "131"
+    },
+    {
+        "video_id": "emHNSDPsl9Q",
+        "title": "Podcast Keluarga Artis S2 | Ep. 23 – Kisah masa SMA Niky bersama RHAMADA WAHYOUU",
+        "publishedAt": "2026-05-31T09:00:06Z",
+        "duration": "PT58M5S",
+        "viewCount": "422748",
+        "likeCount": "12215",
+        "commentCount": "578"
+    },
+    {
         "video_id": "ASqq-c0dw9E",
         "title": "Podcast Keluarga Artis S2 | Ep. 22 – Givina & Sonia Love Us",
         "publishedAt": "2026-05-24T09:00:06Z",
         "duration": "PT52M34S",
-        "viewCount": "226590",
-        "likeCount": "10083",
-        "commentCount": "421"
+        "viewCount": "529825",
+        "likeCount": "15811",
+        "commentCount": "516"
     },
     {
         "video_id": "IZx_VjM27JE",
         "title": "VLOG Behind The Scene: MV NPD ",
         "publishedAt": "2026-05-22T10:00:10Z",
         "duration": "PT9M4S",
-        "viewCount": "42883",
-        "likeCount": "2274",
-        "commentCount": "157"
+        "viewCount": "67376",
+        "likeCount": "3064",
+        "commentCount": "168"
     },
     {
         "video_id": "gGfD40tiPwk",
         "title": "Podcast Keluarga Artis S2 | Ep. 21 – Pertemuan Bersejarah Mario & Paul Partohap",
         "publishedAt": "2026-05-17T09:00:07Z",
         "duration": "PT56M53S",
-        "viewCount": "336888",
-        "likeCount": "18101",
-        "commentCount": "1430"
+        "viewCount": "494743",
+        "likeCount": "21877",
+        "commentCount": "1514"
     },
     {
         "video_id": "MqAgjD2pnkI",
         "title": "VLOG Keluarga Artis Ep. 7 - Akhirnya NPD Live Performance!",
         "publishedAt": "2026-05-15T10:00:36Z",
         "duration": "PT12M31S",
-        "viewCount": "80917",
-        "likeCount": "4429",
-        "commentCount": "234"
+        "viewCount": "114746",
+        "likeCount": "5341",
+        "commentCount": "253"
     },
     {
         "video_id": "AOWrgZh2h40",
         "title": "Podcast Keluarga Artis S2 | Ep. 20 – Kami Adalah Pakar Kuliner",
         "publishedAt": "2026-05-10T09:00:21Z",
         "duration": "PT37M55S",
-        "viewCount": "154984",
-        "likeCount": "6251",
-        "commentCount": "274"
+        "viewCount": "218139",
+        "likeCount": "7599",
+        "commentCount": "294"
     },
     {
         "video_id": "MmED3mjZiHA",
         "title": "Podcast Keluarga Artis S2 | Ep. 19 – Aldi Taher Mengacak-acak Belinsky",
         "publishedAt": "2026-05-03T09:00:06Z",
         "duration": "PT41M55S",
-        "viewCount": "327248",
-        "likeCount": "13372",
-        "commentCount": "791"
+        "viewCount": "415706",
+        "likeCount": "15498",
+        "commentCount": "827"
     },
     {
         "video_id": "w27h33PuglI",
         "title": "PODCAST KELUARGA ARTIS LIVE: ILMU DAGING BERSAMA HABIB ISA ALKAF",
         "publishedAt": "2026-04-27T14:46:22Z",
         "duration": "PT2H27M35S",
-        "viewCount": "22084",
-        "likeCount": "812",
+        "viewCount": "26682",
+        "likeCount": "865",
         "commentCount": "6"
     },
     {
@@ -67,251 +292,251 @@
         "title": "Podcast Keluarga Artis S2 | Ep. 18 – Episode Kesempurnaan",
         "publishedAt": "2026-04-26T10:00:07Z",
         "duration": "PT54M28S",
-        "viewCount": "320088",
-        "likeCount": "11117",
-        "commentCount": "648"
+        "viewCount": "450762",
+        "likeCount": "13784",
+        "commentCount": "700"
     },
     {
         "video_id": "_o9--k9x9cA",
         "title": "Podcast Keluarga Artis S2 | Ep. 17 – Cerdas Bersama Papa Hifdzi",
         "publishedAt": "2026-04-19T09:00:07Z",
         "duration": "PT52M43S",
-        "viewCount": "258231",
-        "likeCount": "8004",
-        "commentCount": "446"
+        "viewCount": "318822",
+        "likeCount": "8972",
+        "commentCount": "455"
     },
     {
         "video_id": "hG4BxLQKwP4",
         "title": "Berkunjung ke Aceh Tengah",
         "publishedAt": "2026-04-18T09:01:02Z",
         "duration": "PT21M4S",
-        "viewCount": "20504",
-        "likeCount": "1210",
-        "commentCount": "103"
+        "viewCount": "25111",
+        "likeCount": "1410",
+        "commentCount": "98"
     },
     {
         "video_id": "8UsCCmxkYk4",
         "title": "Podcast Keluarga Artis S2 | Ep. 16 – Kehidupan Musisi Kami",
         "publishedAt": "2026-04-12T09:00:07Z",
         "duration": "PT39M34S",
-        "viewCount": "210241",
-        "likeCount": "7622",
-        "commentCount": "458"
+        "viewCount": "250293",
+        "likeCount": "8377",
+        "commentCount": "470"
     },
     {
         "video_id": "v7eavhXBBpQ",
         "title": "Podcast Keluarga Artis S2 | Ep. 15 – Persatuan Aktor Legendaris",
         "publishedAt": "2026-04-05T09:00:06Z",
         "duration": "PT56M41S",
-        "viewCount": "303592",
-        "likeCount": "11426",
-        "commentCount": "486"
+        "viewCount": "371970",
+        "likeCount": "12850",
+        "commentCount": "501"
     },
     {
         "video_id": "l2dk3TtIjXY",
         "title": "VLOG Sesi Rekaman NPD - Sempurnanya Aku",
         "publishedAt": "2026-04-03T12:00:08Z",
         "duration": "PT15M22S",
-        "viewCount": "173054",
-        "likeCount": "9539",
-        "commentCount": "625"
+        "viewCount": "205807",
+        "likeCount": "10593",
+        "commentCount": "640"
     },
     {
         "video_id": "wBh7yV0LESs",
         "title": "Podcast Keluarga Artis S2 | Ep. 14 – Ulang Tahun Keluarga Artis",
         "publishedAt": "2026-03-29T11:45:07Z",
         "duration": "PT41M59S",
-        "viewCount": "378859",
-        "likeCount": "15999",
-        "commentCount": "740"
+        "viewCount": "494765",
+        "likeCount": "17885",
+        "commentCount": "751"
     },
     {
         "video_id": "bWoGf_fya2g",
         "title": "Podcast Keluarga Artis S2 | Ep. 13 – Raditya Dika, Guru Komedi Kami!",
         "publishedAt": "2026-03-22T09:00:06Z",
         "duration": "PT59M37S",
-        "viewCount": "890580",
-        "likeCount": "28706",
-        "commentCount": "742"
+        "viewCount": "1176658",
+        "likeCount": "33183",
+        "commentCount": "715"
     },
     {
         "video_id": "JdxFx5cDyNg",
         "title": "VLOG Keluarga Artis Ep. 5 - Bukber-nya Keluarga Artis",
         "publishedAt": "2026-03-20T12:00:41Z",
         "duration": "PT29M23S",
-        "viewCount": "103795",
-        "likeCount": "4193",
-        "commentCount": "126"
+        "viewCount": "119100",
+        "likeCount": "4548",
+        "commentCount": "130"
     },
     {
         "video_id": "xFBs_nM3qPE",
         "title": "KELUARGA ARTIS LIVE: LEBARAN NYA KELUARGA ARTIS",
         "publishedAt": "2026-03-20T11:31:05Z",
         "duration": "PT1H59M14S",
-        "viewCount": "76285",
-        "likeCount": "2525",
-        "commentCount": "21"
+        "viewCount": "86599",
+        "likeCount": "2673",
+        "commentCount": "22"
     },
     {
         "video_id": "EWvuUOkx5r4",
         "title": "Podcast Keluarga Artis S2 | Ep. 12 – Perdamaian Marco & Nisa",
         "publishedAt": "2026-03-15T09:00:07Z",
         "duration": "PT52M41S",
-        "viewCount": "390855",
-        "likeCount": "15844",
-        "commentCount": "785"
+        "viewCount": "486313",
+        "likeCount": "17756",
+        "commentCount": "812"
     },
     {
         "video_id": "7o751cKIMhA",
         "title": "VLOG Sampe Maghrib Ep. 4 - Healing di Playtopia",
         "publishedAt": "2026-03-13T10:00:20Z",
         "duration": "PT16M27S",
-        "viewCount": "122167",
-        "likeCount": "6336",
-        "commentCount": "314"
+        "viewCount": "147765",
+        "likeCount": "6976",
+        "commentCount": "317"
     },
     {
         "video_id": "SjVdwaiov2Q",
         "title": "Podcast Keluarga Artis S2 | Ep. 11 – Ardit & Chandika Akan Menang FFI Tahun Ini",
         "publishedAt": "2026-03-08T09:00:06Z",
         "duration": "PT1H7M51S",
-        "viewCount": "433355",
-        "likeCount": "12807",
-        "commentCount": "611"
+        "viewCount": "517139",
+        "likeCount": "14065",
+        "commentCount": "632"
     },
     {
         "video_id": "NZLF_NoNoJ8",
         "title": "VLOG Sampe Maghrib Ep. 3 - Tur Rumah (Eh, istana) Niky",
         "publishedAt": "2026-03-06T10:00:38Z",
         "duration": "PT28M26S",
-        "viewCount": "349674",
-        "likeCount": "16687",
-        "commentCount": "709"
+        "viewCount": "428476",
+        "likeCount": "18585",
+        "commentCount": "740"
     },
     {
         "video_id": "WiAXJQGvw0M",
         "title": "Podcast Keluarga Artis S2 | Ep. 10 – Tante Iis Is Here!",
         "publishedAt": "2026-03-01T09:00:06Z",
         "duration": "PT49M40S",
-        "viewCount": "540588",
-        "likeCount": "24328",
-        "commentCount": "986"
+        "viewCount": "693057",
+        "likeCount": "27158",
+        "commentCount": "1026"
     },
     {
         "video_id": "CS7EfLyyIvU",
         "title": "VLOG Sampe Maghrib Ep. 2 - Mencoba Memancing di Hutan Amazon",
         "publishedAt": "2026-02-27T10:00:31Z",
         "duration": "PT23M9S",
-        "viewCount": "133007",
-        "likeCount": "5847",
-        "commentCount": "209"
+        "viewCount": "151370",
+        "likeCount": "6293",
+        "commentCount": "214"
     },
     {
         "video_id": "6JFqjoHvMg0",
         "title": "Podcast Keluarga Artis S2 | Ep. 9 - EKSKLUSIF!! Bernadya Makan Kue Salju!",
         "publishedAt": "2026-02-22T09:00:06Z",
         "duration": "PT53M37S",
-        "viewCount": "566117",
-        "likeCount": "17631",
-        "commentCount": "860"
+        "viewCount": "673171",
+        "likeCount": "19349",
+        "commentCount": "876"
     },
     {
         "video_id": "8LD6QEOBPCA",
         "title": "VLOG Sampe Maghrib Ep. 1 - Menjadi Dewasa di KidZania",
         "publishedAt": "2026-02-20T10:37:44Z",
         "duration": "PT17M12S",
-        "viewCount": "168746",
-        "likeCount": "9929",
-        "commentCount": "512"
+        "viewCount": "191543",
+        "likeCount": "10622",
+        "commentCount": "523"
     },
     {
         "video_id": "MzSK24cBJps",
         "title": "VLOG Keluarga Artis Ep. 4 - Peresmian Markas Keluarga Artis",
         "publishedAt": "2026-02-18T09:00:06Z",
         "duration": "PT16M38S",
-        "viewCount": "103953",
-        "likeCount": "4994",
-        "commentCount": "155"
+        "viewCount": "121099",
+        "likeCount": "5473",
+        "commentCount": "158"
     },
     {
         "video_id": "Ya1tMU8c-mE",
         "title": "Podcast Keluarga Artis S2 | Ep. 8 - Pandji Pragiwaksono dan 2 Orang Puyeng",
         "publishedAt": "2026-02-15T09:00:06Z",
         "duration": "PT1H4M51S",
-        "viewCount": "500570",
-        "likeCount": "14384",
-        "commentCount": "683"
+        "viewCount": "597807",
+        "likeCount": "15781",
+        "commentCount": "701"
     },
     {
         "video_id": "NubizbGO-Gs",
         "title": "Podcast Keluarga Artis S2 | Ep. 7 – Perkumpulan Pria Tampan",
         "publishedAt": "2026-02-08T09:00:06Z",
         "duration": "PT47M54S",
-        "viewCount": "539833",
-        "likeCount": "17989",
-        "commentCount": "948"
+        "viewCount": "680331",
+        "likeCount": "20700",
+        "commentCount": "997"
     },
     {
         "video_id": "3v6E0LTiC5s",
         "title": "Podcast Keluarga Artis S2 | Ep. 6 –Kami Ingin Mencoba Pekerjaan Lain!",
         "publishedAt": "2026-02-01T10:00:16Z",
         "duration": "PT44M54S",
-        "viewCount": "215873",
-        "likeCount": "6305",
-        "commentCount": "225"
+        "viewCount": "263881",
+        "likeCount": "7054",
+        "commentCount": "230"
     },
     {
         "video_id": "faJDlpDsMOQ",
         "title": "Podcast Keluarga Artis S2 | Ep. 5 – Belajar Menari Bersama Ganta",
         "publishedAt": "2026-01-25T10:00:06Z",
         "duration": "PT44M25S",
-        "viewCount": "467704",
-        "likeCount": "17883",
-        "commentCount": "766"
+        "viewCount": "575636",
+        "likeCount": "19880",
+        "commentCount": "817"
     },
     {
         "video_id": "ocjxzVo_FDw",
         "title": "Podcast Keluarga Artis S2 | Ep. 4 – Pernikahan Idaman Keluarga Artis",
         "publishedAt": "2026-01-18T09:00:06Z",
         "duration": "PT35M28S",
-        "viewCount": "238115",
-        "likeCount": "7811",
-        "commentCount": "313"
+        "viewCount": "282325",
+        "likeCount": "8643",
+        "commentCount": "333"
     },
     {
         "video_id": "SgoiJT48WNQ",
         "title": "Podcast Keluarga Artis S2 | Ep. 3 – Membongkar Rahasia Dunia (Lagi)",
         "publishedAt": "2026-01-11T09:00:06Z",
         "duration": "PT32M25S",
-        "viewCount": "179845",
-        "likeCount": "6732",
-        "commentCount": "296"
+        "viewCount": "199275",
+        "likeCount": "7157",
+        "commentCount": "300"
     },
     {
         "video_id": "-WasC34sYmE",
         "title": "Podcast Keluarga Artis S2 | Ep. 2 – Circle Artisnya Niky",
         "publishedAt": "2026-01-04T09:00:06Z",
         "duration": "PT35M56S",
-        "viewCount": "392042",
-        "likeCount": "13873",
-        "commentCount": "424"
+        "viewCount": "445456",
+        "likeCount": "14925",
+        "commentCount": "430"
     },
     {
         "video_id": "A3VdwcjYJNo",
         "title": "Podcast Keluarga Artis S2 | Ep. 1 – Kembalinya Keluarga Artis",
         "publishedAt": "2025-12-28T09:00:06Z",
         "duration": "PT26M51S",
-        "viewCount": "240215",
-        "likeCount": "11199",
-        "commentCount": "1053"
+        "viewCount": "259972",
+        "likeCount": "11624",
+        "commentCount": "1040"
     },
     {
         "video_id": "4hLfM5eTZsE",
         "title": "Nobar Match Terakhirnya John Cena",
         "publishedAt": "2025-12-27T12:00:14Z",
         "duration": "PT18M15S",
-        "viewCount": "19754",
-        "likeCount": "902",
+        "viewCount": "21083",
+        "likeCount": "958",
         "commentCount": "69"
     },
     {
@@ -319,89 +544,89 @@
         "title": "VLOG Keluarga Artis Ep. 3 - Main ke Bali",
         "publishedAt": "2025-12-21T09:00:06Z",
         "duration": "PT19M1S",
-        "viewCount": "173401",
-        "likeCount": "6215",
-        "commentCount": "187"
+        "viewCount": "194282",
+        "likeCount": "6650",
+        "commentCount": "189"
     },
     {
         "video_id": "91h9_GFi_UE",
         "title": "VLOG Keluarga Artis Ep. 2 - Survey Markas Baru Keluarga Artis",
         "publishedAt": "2025-12-14T09:00:06Z",
         "duration": "PT20M44S",
-        "viewCount": "146568",
-        "likeCount": "7098",
-        "commentCount": "240"
+        "viewCount": "158708",
+        "likeCount": "7405",
+        "commentCount": "241"
     },
     {
         "video_id": "OZZX5xFaImE",
         "title": "VLOG Keluarga Artis Ep. 1 - Dateng ke Youtube Festival!",
         "publishedAt": "2025-12-07T09:00:07Z",
         "duration": "PT19M20S",
-        "viewCount": "129369",
-        "likeCount": "6770",
-        "commentCount": "169"
+        "viewCount": "137804",
+        "likeCount": "7014",
+        "commentCount": "174"
     },
     {
         "video_id": "0NhKce_m1DQ",
         "title": "PODCAST KELUARGA ARTIS LIVE: DONASI UNTUK HEWAN SUMATERA",
         "publishedAt": "2025-12-06T16:19:11Z",
         "duration": "PT3H55M18S",
-        "viewCount": "76156",
-        "likeCount": "2293",
-        "commentCount": "35"
+        "viewCount": "92590",
+        "likeCount": "2400",
+        "commentCount": "40"
     },
     {
         "video_id": "olJwiiELUJo",
         "title": "KOMPILASI SEASON 1 PODCAST KELUARGA ARTIS",
         "publishedAt": "2025-11-30T09:00:06Z",
         "duration": "PT37M52S",
-        "viewCount": "133720",
-        "likeCount": "5621",
-        "commentCount": "234"
+        "viewCount": "144749",
+        "likeCount": "5871",
+        "commentCount": "230"
     },
     {
         "video_id": "UXIOS-gvLkI",
         "title": "PODCAST KELUARGA ARTIS LIVE - YUK MAIN YUK",
         "publishedAt": "2025-11-28T16:03:21Z",
         "duration": "PT3H45M54S",
-        "viewCount": "73214",
-        "likeCount": "1691",
-        "commentCount": "22"
+        "viewCount": "81793",
+        "likeCount": "1773",
+        "commentCount": "23"
     },
     {
         "video_id": "4jZr8cMI2Pw",
         "title": "Podcast Keluarga Artis Ep. 30 – Calon Keluarga Artis",
         "publishedAt": "2025-11-23T09:09:17Z",
         "duration": "PT1H18M31S",
-        "viewCount": "780412",
-        "likeCount": "23546",
-        "commentCount": "1101"
+        "viewCount": "907423",
+        "likeCount": "25467",
+        "commentCount": "1139"
     },
     {
         "video_id": "SJaBBXDEjH8",
         "title": "Podcast Keluarga Artis Ep. 29 – Lagi-lagi Circle Artisnya Mario",
         "publishedAt": "2025-11-16T09:00:06Z",
         "duration": "PT39M42S",
-        "viewCount": "1183603",
-        "likeCount": "33473",
-        "commentCount": "504"
+        "viewCount": "1314733",
+        "likeCount": "35482",
+        "commentCount": "515"
     },
     {
         "video_id": "PNnAv51NHk8",
         "title": "MAIN IBLIS 3 BARENG GIVINA",
         "publishedAt": "2025-11-13T16:25:57Z",
         "duration": "PT2H15M22S",
-        "viewCount": "25571",
-        "likeCount": "698",
-        "commentCount": "14"
+        "viewCount": "28175",
+        "likeCount": "757",
+        "commentCount": "15"
     },
     {
         "video_id": "MLMf00PAnuM",
         "title": "MENDAKI GUNUNG DENGAN FULL EMOSI [PEAK BERSAMA EL BEDEBAH]",
         "publishedAt": "2025-11-10T16:20:33Z",
         "duration": "PT1H58M47S",
-        "viewCount": "15187",
-        "likeCount": "489",
+        "viewCount": "15693",
+        "likeCount": "500",
         "commentCount": "9"
     },
     {
@@ -409,143 +634,143 @@
         "title": "Podcast Keluarga Artis Ep. 28 - Ecky, Kakaknya Niky yang Sama Jeniusnya",
         "publishedAt": "2025-11-09T09:00:06Z",
         "duration": "PT45M35S",
-        "viewCount": "589072",
-        "likeCount": "18565",
-        "commentCount": "695"
+        "viewCount": "741848",
+        "likeCount": "20849",
+        "commentCount": "729"
     },
     {
         "video_id": "xM0FE96CvSA",
         "title": "Podcast Keluarga Artis Ep. 27 – Vhomb, Jujur Janggal Kedatangan Rico Lubis",
         "publishedAt": "2025-11-02T09:00:06Z",
         "duration": "PT32M6S",
-        "viewCount": "290452",
-        "likeCount": "7732",
-        "commentCount": "306"
+        "viewCount": "303895",
+        "likeCount": "7953",
+        "commentCount": "305"
     },
     {
         "video_id": "Pb34iky7Vt0",
         "title": "Podcast Keluarga Artis Ep. 26 – Kami Adalah Kiblat Fashion Dunia",
         "publishedAt": "2025-10-26T10:06:11Z",
         "duration": "PT40M9S",
-        "viewCount": "268050",
-        "likeCount": "7758",
-        "commentCount": "305"
+        "viewCount": "294013",
+        "likeCount": "8200",
+        "commentCount": "308"
     },
     {
         "video_id": "BUMD_o1ir7A",
         "title": "Podcast Keluarga Artis Ep. 25 - Panggil Kami Dokter Cilik",
         "publishedAt": "2025-10-19T09:00:06Z",
         "duration": "PT40M13S",
-        "viewCount": "255585",
-        "likeCount": "7844",
-        "commentCount": "291"
+        "viewCount": "282332",
+        "likeCount": "8290",
+        "commentCount": "306"
     },
     {
         "video_id": "nxx8yEtBk8I",
         "title": "Podcast Keluarga Artis Ep. 24 – Afgan, Sahabat Teteh Kami",
         "publishedAt": "2025-10-12T09:00:06Z",
         "duration": "PT36M53S",
-        "viewCount": "553858",
-        "likeCount": "18605",
-        "commentCount": "531"
+        "viewCount": "598544",
+        "likeCount": "19502",
+        "commentCount": "535"
     },
     {
         "video_id": "sbZo3sQ4Iw8",
         "title": "Podcast Keluarga Artis Ep. 23 – (katanya) Ketua Tim Celana Gajah",
         "publishedAt": "2025-10-05T09:00:06Z",
         "duration": "PT37M18S",
-        "viewCount": "891775",
-        "likeCount": "27613",
-        "commentCount": "1151"
+        "viewCount": "975814",
+        "likeCount": "28966",
+        "commentCount": "1162"
     },
     {
         "video_id": "Tsc78ZHPhGg",
         "title": "Podcast Keluarga Artis Ep. 22 – Bernyanyi Adalah DNA Kami!",
         "publishedAt": "2025-09-28T09:00:06Z",
         "duration": "PT30M8S",
-        "viewCount": "287310",
-        "likeCount": "8357",
-        "commentCount": "243"
+        "viewCount": "312872",
+        "likeCount": "8774",
+        "commentCount": "249"
     },
     {
         "video_id": "nmtJdfVzEBY",
         "title": "Podcast Keluarga Artis Ep. 21 – JEMPOL KAKI MARIO KETINDIHAN KURSI BELINSKY?! Niky: \"Gua gak expect\"",
         "publishedAt": "2025-09-21T09:00:06Z",
         "duration": "PT32M28S",
-        "viewCount": "311006",
-        "likeCount": "9713",
-        "commentCount": "440"
+        "viewCount": "347089",
+        "likeCount": "10341",
+        "commentCount": "458"
     },
     {
         "video_id": "1iJg8Lyj9jE",
         "title": "Podcast Keluarga Artis Ep. 20 - Kami adalah Dokter Cinta",
         "publishedAt": "2025-09-14T09:00:06Z",
         "duration": "PT40M18S",
-        "viewCount": "262901",
-        "likeCount": "8665",
-        "commentCount": "511"
+        "viewCount": "273933",
+        "likeCount": "8903",
+        "commentCount": "513"
     },
     {
         "video_id": "_zPjBJcsgWo",
         "title": "PODCAST KELUARGA ARTIS LIVE - GAMING BERSAMA KETUA TIM CELANA GAJAH",
         "publishedAt": "2025-09-07T13:06:52Z",
         "duration": "PT4H46M17S",
-        "viewCount": "147790",
-        "likeCount": "3316",
-        "commentCount": "92"
+        "viewCount": "163561",
+        "likeCount": "3516",
+        "commentCount": "104"
     },
     {
         "video_id": "ehvj1uY5Ht0",
         "title": "Podcast Keluarga Artis Ep. 19 - Mihu VS Mahi",
         "publishedAt": "2025-08-24T10:00:06Z",
         "duration": "PT35M25S",
-        "viewCount": "365943",
-        "likeCount": "12363",
-        "commentCount": "539"
+        "viewCount": "382561",
+        "likeCount": "12647",
+        "commentCount": "538"
     },
     {
         "video_id": "fVWowlAW928",
         "title": "Podcast Keluarga Artis Ep. 18 – Mantapnya Indonesiaku",
         "publishedAt": "2025-08-17T09:00:06Z",
         "duration": "PT39M31S",
-        "viewCount": "374407",
-        "likeCount": "12892",
-        "commentCount": "411"
+        "viewCount": "404021",
+        "likeCount": "13344",
+        "commentCount": "415"
     },
     {
         "video_id": "rhNQQZLWkoc",
         "title": "PODCAST KELUARGA ARTIS LIVE - GAMING DI HARI MINGGU",
         "publishedAt": "2025-08-10T11:37:57Z",
         "duration": "PT3H12M59S",
-        "viewCount": "149014",
-        "likeCount": "4044",
-        "commentCount": "133"
+        "viewCount": "175808",
+        "likeCount": "4215",
+        "commentCount": "136"
     },
     {
         "video_id": "t0MNpd7gA3M",
         "title": "Podcast Keluarga Artis Ep. 17 – Circle Artis nya Mario",
         "publishedAt": "2025-08-03T09:00:06Z",
         "duration": "PT35M24S",
-        "viewCount": "571643",
-        "likeCount": "23333",
-        "commentCount": "913"
+        "viewCount": "605235",
+        "likeCount": "24074",
+        "commentCount": "917"
     },
     {
         "video_id": "Yw7e9MGUaPQ",
         "title": "Podcast Keluarga Artis Ep.16 – Marco Ivanos Juga Keluarga Artis",
         "publishedAt": "2025-07-27T09:00:06Z",
         "duration": "PT37M29S",
-        "viewCount": "946201",
-        "likeCount": "29436",
-        "commentCount": "1388"
+        "viewCount": "1059708",
+        "likeCount": "31126",
+        "commentCount": "1392"
     },
     {
         "video_id": "JzYIkQeEyKY",
         "title": "100K SUBSCRIBERS SPECIAL ASHEEEK!",
         "publishedAt": "2025-07-23T15:28:56Z",
         "duration": "PT1H22M57S",
-        "viewCount": "37120",
-        "likeCount": "1715",
+        "viewCount": "37734",
+        "likeCount": "1718",
         "commentCount": "117"
     },
     {
@@ -553,35 +778,35 @@
         "title": "Podcast Keluarga Artis Ep.15 - Pertemuan 3 Orang Jenius",
         "publishedAt": "2025-07-20T12:00:06Z",
         "duration": "PT32M40S",
-        "viewCount": "1416056",
-        "likeCount": "55777",
-        "commentCount": "1940"
+        "viewCount": "1601202",
+        "likeCount": "58810",
+        "commentCount": "1917"
     },
     {
         "video_id": "3vKScbhvECo",
         "title": "Podcast Keluarga Artis Ep.14 - Masa Sekolah Keluarga Artis",
         "publishedAt": "2025-07-13T09:00:05Z",
         "duration": "PT43M6S",
-        "viewCount": "648080",
-        "likeCount": "19911",
-        "commentCount": "721"
+        "viewCount": "708149",
+        "likeCount": "20805",
+        "commentCount": "724"
     },
     {
         "video_id": "rSRqXEc0Dc4",
         "title": "Podcast Keluarga Artis Ep. 13 – Keluarga Artis Jadi Artis Beneran?!",
         "publishedAt": "2025-07-06T09:01:12Z",
         "duration": "PT36M4S",
-        "viewCount": "389281",
-        "likeCount": "12958",
-        "commentCount": "704"
+        "viewCount": "406936",
+        "likeCount": "13277",
+        "commentCount": "709"
     },
     {
         "video_id": "bJbVVnRc4ms",
         "title": "Podcast Keluarga Artis Ep. 12 – Sit Down Comedy Bersama Ge Pamungkas",
         "publishedAt": "2025-06-29T09:00:06Z",
         "duration": "PT36M44S",
-        "viewCount": "543750",
-        "likeCount": "18069",
+        "viewCount": "560429",
+        "likeCount": "18335",
         "commentCount": "830"
     },
     {
@@ -589,80 +814,80 @@
         "title": "Podcast Keluarga Artis Ep. 11 – Kami Juga Mau Kaya!",
         "publishedAt": "2025-06-22T09:00:06Z",
         "duration": "PT38M38S",
-        "viewCount": "413252",
-        "likeCount": "12817",
-        "commentCount": "579"
+        "viewCount": "440036",
+        "likeCount": "13199",
+        "commentCount": "582"
     },
     {
         "video_id": "saEhC75TBlE",
         "title": "Podcast Keluarga Artis Ep.10 - Ketuanya Keluarga Artis!",
         "publishedAt": "2025-06-15T12:42:02Z",
         "duration": "PT44M19S",
-        "viewCount": "2127734",
-        "likeCount": "72917",
-        "commentCount": "1906"
+        "viewCount": "2339568",
+        "likeCount": "76636",
+        "commentCount": "1945"
     },
     {
         "video_id": "mrCmSCGvxjc",
         "title": "Podcast Keluarga Artis Ep. 9 – Andai Kami Menjadi Artis",
         "publishedAt": "2025-06-08T09:37:59Z",
         "duration": "PT33M7S",
-        "viewCount": "400380",
-        "likeCount": "12016",
-        "commentCount": "469"
+        "viewCount": "419748",
+        "likeCount": "12351",
+        "commentCount": "472"
     },
     {
         "video_id": "zlS2ibk-OkQ",
         "title": "Podcast Keluarga Artis Ep. 8 – Membongkar Rahasia Dunia",
         "publishedAt": "2025-06-01T09:00:06Z",
         "duration": "PT33M45S",
-        "viewCount": "437598",
-        "likeCount": "14656",
-        "commentCount": "615"
+        "viewCount": "455068",
+        "likeCount": "14965",
+        "commentCount": "616"
     },
     {
         "video_id": "RMu9hBC2EzQ",
         "title": "PODCAST KELUARGA ARTIS WEEKEND LIVE PART 2: PODCAST LIVE KEDUA",
         "publishedAt": "2025-05-25T11:29:31Z",
         "duration": "PT2H18M10S",
-        "viewCount": "148582",
-        "likeCount": "3226",
-        "commentCount": "158"
+        "viewCount": "154130",
+        "likeCount": "3268",
+        "commentCount": "160"
     },
     {
         "video_id": "yIfTNZXrMXg",
         "title": "PODCAST KELUARGA ARTIS WEEKEND LIVE PART 1: GAMINGNYA SELEBRITI",
         "publishedAt": "2025-05-24T15:44:16Z",
         "duration": "PT3H9M19S",
-        "viewCount": "169206",
-        "likeCount": "4224",
-        "commentCount": "118"
+        "viewCount": "185140",
+        "likeCount": "4321",
+        "commentCount": "119"
     },
     {
         "video_id": "XZLXeOt9VX8",
         "title": "Podcast Keluarga Artis Ep. 7 – Ustad Kalcer, Mau Nanya Dong!",
         "publishedAt": "2025-05-18T09:00:06Z",
         "duration": "PT39M53S",
-        "viewCount": "420072",
-        "likeCount": "15794",
-        "commentCount": "723"
+        "viewCount": "430089",
+        "likeCount": "15980",
+        "commentCount": "721"
     },
     {
         "video_id": "xg4E2m2yDCo",
         "title": "Podcast Keluarga Artis Ep. 6 – Olahraga Adalah Passion",
         "publishedAt": "2025-05-11T09:00:06Z",
         "duration": "PT32M22S",
-        "viewCount": "338323",
-        "likeCount": "10223",
-        "commentCount": "398"
+        "viewCount": "356691",
+        "likeCount": "10539",
+        "commentCount": "401"
     },
     {
         "video_id": "gUtyUdD3Kbs",
         "title": "NAMBAH PERSONIL MALAH MAKIN SULIT [SCHEDULE 1 BERSAMA EL BEDEBAH]",
         "publishedAt": "2025-05-08T16:24:58Z",
         "duration": "PT1H53M25S",
-        "viewCount": "10116",
-        "likeCount": "282",
+        "viewCount": "10330",
+        "likeCount": "283",
         "commentCount": "7"
     },
     {
@@ -670,7 +895,7 @@
         "title": "SETELAH 5 JAM AKHIRNYA TAMAT JUGA! [CHAINED TOGETHER BERSAMA EL BEDEBAH #4]",
         "publishedAt": "2025-05-07T15:20:39Z",
         "duration": "PT1H7M24S",
-        "viewCount": "7201",
+        "viewCount": "7325",
         "likeCount": "237",
         "commentCount": "4"
     },
@@ -679,8 +904,8 @@
         "title": "PICO PARK 2 BERSAMA EL BEDEBAH",
         "publishedAt": "2025-05-06T17:24:28Z",
         "duration": "PT1H49M16S",
-        "viewCount": "21232",
-        "likeCount": "600",
+        "viewCount": "21611",
+        "likeCount": "609",
         "commentCount": "21"
     },
     {
@@ -688,53 +913,53 @@
         "title": "Resep Cromboloni viral ala Keluarga Artis. Semoga suka yah ibu-ibu. #podcast #podcastkeluargaartis",
         "publishedAt": "2025-05-06T10:32:47Z",
         "duration": "PT1M32S",
-        "viewCount": "138820",
-        "likeCount": "10976",
-        "commentCount": "100"
+        "viewCount": "160919",
+        "likeCount": "12120",
+        "commentCount": "114"
     },
     {
         "video_id": "dEx78kZXr_g",
         "title": "Podcast Keluarga Artis Ep. 5 - Kami Siap Ikut Masterchef",
         "publishedAt": "2025-05-04T09:00:06Z",
         "duration": "PT31M38S",
-        "viewCount": "615655",
-        "likeCount": "19249",
-        "commentCount": "987"
+        "viewCount": "654399",
+        "likeCount": "19897",
+        "commentCount": "996"
     },
     {
         "video_id": "TPwkCG1p3QU",
         "title": "Podcast Keluarga Artis Ep.4 - Takut Hantu? No Way!",
         "publishedAt": "2025-04-27T09:00:06Z",
         "duration": "PT34M29S",
-        "viewCount": "363959",
-        "likeCount": "12091",
-        "commentCount": "399"
+        "viewCount": "386069",
+        "likeCount": "12538",
+        "commentCount": "403"
     },
     {
         "video_id": "vrZuVx_ztpE",
         "title": "Gini jadinya kalo kami bikin skrip Harry Potter. #podcastkeluargaartis #podcast",
         "publishedAt": "2025-04-21T07:19:26Z",
         "duration": "PT57S",
-        "viewCount": "199326",
-        "likeCount": "16767",
-        "commentCount": "29"
+        "viewCount": "214769",
+        "likeCount": "17537",
+        "commentCount": "30"
     },
     {
         "video_id": "4dOwFg7JF5U",
         "title": "Podcast Keluarga Artis Ep.3 - Kami Cinta Zodiak",
         "publishedAt": "2025-04-20T09:00:06Z",
         "duration": "PT36M51S",
-        "viewCount": "453585",
-        "likeCount": "14856",
-        "commentCount": "715"
+        "viewCount": "479403",
+        "likeCount": "15338",
+        "commentCount": "727"
     },
     {
         "video_id": "VkdCcduPQjg",
         "title": "MENJADI KURIR NAROBOY YANG AMANAH [SCHEDULE 1]",
         "publishedAt": "2025-04-17T15:19:58Z",
         "duration": "PT1H53M41S",
-        "viewCount": "4421",
-        "likeCount": "171",
+        "viewCount": "4471",
+        "likeCount": "172",
         "commentCount": "2"
     },
     {
@@ -742,35 +967,35 @@
         "title": "Ini konsepnya emang “berani bertanya, baru sadar kemudian”. #Podcast #PodcastKeluargaArtis",
         "publishedAt": "2025-04-16T08:07:19Z",
         "duration": "PT23S",
-        "viewCount": "361423",
-        "likeCount": "16216",
-        "commentCount": "42"
+        "viewCount": "483146",
+        "likeCount": "20035",
+        "commentCount": "49"
     },
     {
         "video_id": "XO5yQRa6JCY",
         "title": "Podcast Keluarga Artis Ep.2 - Dustin Tiffany Terapi Batuk",
         "publishedAt": "2025-04-13T09:00:07Z",
         "duration": "PT34M55S",
-        "viewCount": "372924",
-        "likeCount": "12595",
-        "commentCount": "554"
+        "viewCount": "387295",
+        "likeCount": "12902",
+        "commentCount": "560"
     },
     {
         "video_id": "4CQeh8d6f1U",
         "title": "Podcast Keluarga Artis Ep.1.5 LIVE",
         "publishedAt": "2025-04-06T10:39:56Z",
         "duration": "PT1H35M28S",
-        "viewCount": "142563",
-        "likeCount": "4301",
-        "commentCount": "168"
+        "viewCount": "147783",
+        "likeCount": "4370",
+        "commentCount": "171"
     },
     {
         "video_id": "Urq1YIuJVwU",
         "title": "BAGAIKAN BERJOGET BERSAMA KING NASSAR [SPLIT FICTION #3]",
         "publishedAt": "2025-03-29T21:52:57Z",
         "duration": "PT1H27M15S",
-        "viewCount": "2088",
-        "likeCount": "86",
+        "viewCount": "2139",
+        "likeCount": "87",
         "commentCount": "5"
     },
     {
@@ -778,16 +1003,16 @@
         "title": "Podcast Keluarga Artis Ep.1 - Asyiknya Ramadhan",
         "publishedAt": "2025-03-29T09:00:06Z",
         "duration": "PT32M54S",
-        "viewCount": "508668",
-        "likeCount": "19186",
-        "commentCount": "576"
+        "viewCount": "528489",
+        "likeCount": "19558",
+        "commentCount": "581"
     },
     {
         "video_id": "_QK5JS8wNAs",
         "title": "LAGI MANCING MALAH KETEMU DEWA KEMATIAN? [DREDGE #2]",
         "publishedAt": "2025-03-26T10:47:42Z",
         "duration": "PT1H32M26S",
-        "viewCount": "1030",
+        "viewCount": "1042",
         "likeCount": "40",
         "commentCount": "2"
     },
@@ -796,25 +1021,25 @@
         "title": "Podcast Keluarga Artis Ep.0 - Selamat Datang di Keluarga Kami!",
         "publishedAt": "2025-03-22T09:00:06Z",
         "duration": "PT16M22S",
-        "viewCount": "673261",
-        "likeCount": "27965",
-        "commentCount": "698"
+        "viewCount": "733062",
+        "likeCount": "28753",
+        "commentCount": "703"
     },
     {
         "video_id": "o6hmAMOwVm0",
         "title": "GAME MANCING HORROR YANG MASTERPIECE! [DREDGE]",
         "publishedAt": "2025-03-21T21:47:22Z",
         "duration": "PT1H28M10S",
-        "viewCount": "1580",
-        "likeCount": "65",
-        "commentCount": "3"
+        "viewCount": "1637",
+        "likeCount": "66",
+        "commentCount": "4"
     },
     {
         "video_id": "_SFGpxlrWms",
         "title": "DIKEJAR-KEJAR SETAN BASEMENT [DEPPART PROTOTYPE]",
         "publishedAt": "2025-03-19T10:12:24Z",
         "duration": "PT45M58S",
-        "viewCount": "1861",
+        "viewCount": "1894",
         "likeCount": "90",
         "commentCount": "5"
     },
@@ -823,8 +1048,8 @@
         "title": "BAKU HANTAM SAMBIL MENUNGGU SAHUR! [PARTY ANIMALS BERSAMA EL BEDEBAH #6]",
         "publishedAt": "2025-03-17T22:14:21Z",
         "duration": "PT1H58M25S",
-        "viewCount": "7057",
-        "likeCount": "202",
+        "viewCount": "7165",
+        "likeCount": "204",
         "commentCount": "4"
     },
     {
@@ -832,8 +1057,8 @@
         "title": "TERJEBAK DI PIRAMIDA [AMENTI]",
         "publishedAt": "2025-03-15T16:23:25Z",
         "duration": "PT1H20M40S",
-        "viewCount": "2663",
-        "likeCount": "131",
+        "viewCount": "2753",
+        "likeCount": "133",
         "commentCount": "4"
     },
     {
@@ -841,7 +1066,7 @@
         "title": "BERPETUALANG MENJADI MONYET?! [SPLIT FICTION #2]",
         "publishedAt": "2025-03-14T22:04:45Z",
         "duration": "PT1H37M40S",
-        "viewCount": "1649",
+        "viewCount": "1691",
         "likeCount": "71",
         "commentCount": "1"
     },
@@ -850,7 +1075,7 @@
         "title": "MARI KITA COBA SPLIT FICTION!",
         "publishedAt": "2025-03-13T22:16:54Z",
         "duration": "PT2H3M14S",
-        "viewCount": "2618",
+        "viewCount": "2664",
         "likeCount": "85",
         "commentCount": "7"
     },
@@ -859,7 +1084,7 @@
         "title": "AKU DAN TEMAN-TEMANKU MENJADI EL DENSUS [READY OR NOT]",
         "publishedAt": "2024-12-30T16:37:35Z",
         "duration": "PT1H57M7S",
-        "viewCount": "2142",
+        "viewCount": "2163",
         "likeCount": "82",
         "commentCount": "2"
     },
@@ -868,7 +1093,7 @@
         "title": "GAME MACAM APA INI.. [SQUIRREL WITH A GUN]",
         "publishedAt": "2024-12-21T15:34:15Z",
         "duration": "PT1H19M18S",
-        "viewCount": "1128",
+        "viewCount": "1134",
         "likeCount": "46",
         "commentCount": "2"
     },
@@ -877,8 +1102,8 @@
         "title": "NYARI KOS-KOSAN MURAH TERNYATA ANGKER..",
         "publishedAt": "2024-12-20T13:06:38Z",
         "duration": "PT1H11M31S",
-        "viewCount": "2400",
-        "likeCount": "94",
+        "viewCount": "2443",
+        "likeCount": "97",
         "commentCount": "1"
     },
     {
@@ -886,7 +1111,7 @@
         "title": "BUKA PACK BARU BARENG SUBSCRIBERS DI POKEMON TCG POCKET!",
         "publishedAt": "2024-12-18T14:00:02Z",
         "duration": "PT1H30M54S",
-        "viewCount": "904",
+        "viewCount": "926",
         "likeCount": "56",
         "commentCount": "2"
     },
@@ -895,7 +1120,7 @@
         "title": "NYOBAIN MARVEL RIVALS",
         "publishedAt": "2024-12-08T14:22:51Z",
         "duration": "PT1H1M31S",
-        "viewCount": "1574",
+        "viewCount": "1595",
         "likeCount": "56",
         "commentCount": "3"
     },
@@ -904,7 +1129,7 @@
         "title": "TETAP SABAR WALAU MAKIN BANYAK COBAAN DARI VIEWERS. [A QUIET PLACE THE ROAD AHEAD #2]",
         "publishedAt": "2024-11-14T13:54:26Z",
         "duration": "PT1H34M51S",
-        "viewCount": "2217",
+        "viewCount": "2234",
         "likeCount": "90",
         "commentCount": "1"
     },
@@ -913,7 +1138,7 @@
         "title": "NEMENIN DION NYOBAIN LUNCH LADY",
         "publishedAt": "2024-11-09T04:18:39Z",
         "duration": "PT1H54M44S",
-        "viewCount": "4145",
+        "viewCount": "4194",
         "likeCount": "154",
         "commentCount": "6"
     },
@@ -922,8 +1147,8 @@
         "title": "AKHIRNYA KETEMU PAK AHOK!",
         "publishedAt": "2024-11-08T12:00:05Z",
         "duration": "PT9M32S",
-        "viewCount": "18839",
-        "likeCount": "1049",
+        "viewCount": "19702",
+        "likeCount": "1093",
         "commentCount": "30"
     },
     {
@@ -931,7 +1156,7 @@
         "title": "KALIAN SEMUA EMANG PENGEN GUA GAGAL YA?! [A QUIET PLACE: THE ROAD AHEAD]",
         "publishedAt": "2024-11-05T13:26:13Z",
         "duration": "PT1H45M28S",
-        "viewCount": "2805",
+        "viewCount": "2823",
         "likeCount": "105",
         "commentCount": "17"
     },
@@ -940,8 +1165,8 @@
         "title": "KITA DIPANTAU HANTU TEPUK TANGAN. [CLAP CLAP]",
         "publishedAt": "2024-10-11T13:01:35Z",
         "duration": "PT48M39S",
-        "viewCount": "2007",
-        "likeCount": "82",
+        "viewCount": "2031",
+        "likeCount": "83",
         "commentCount": "3"
     },
     {
@@ -949,7 +1174,7 @@
         "title": "DEVOUR THE MANOR BERSAMA EL BEDEBAH.",
         "publishedAt": "2024-10-09T16:04:45Z",
         "duration": "PT1H10M37S",
-        "viewCount": "5333",
+        "viewCount": "5411",
         "likeCount": "165",
         "commentCount": "9"
     },
@@ -958,8 +1183,8 @@
         "title": "SUARA KITA KEDENGERAN SAMA SETAN-SETAN DISINI. [SILENT BREATH]",
         "publishedAt": "2024-10-08T13:42:16Z",
         "duration": "PT1H27M44S",
-        "viewCount": "2333",
-        "likeCount": "107",
+        "viewCount": "2358",
+        "likeCount": "108",
         "commentCount": "4"
     },
     {
@@ -967,8 +1192,8 @@
         "title": "SIMULASI MENJADI PENJAGA KASIR ANARKIS. [I Am Part-time Worker]",
         "publishedAt": "2024-10-04T13:44:11Z",
         "duration": "PT1H20M25S",
-        "viewCount": "2838",
-        "likeCount": "115",
+        "viewCount": "2876",
+        "likeCount": "117",
         "commentCount": "6"
     },
     {
@@ -976,7 +1201,7 @@
         "title": "NGANTER GALON KE PERUMAHAN TERKUTUK [WATER DELIVERY]",
         "publishedAt": "2024-09-29T13:33:58Z",
         "duration": "PT1H56M14S",
-        "viewCount": "3684",
+        "viewCount": "3756",
         "likeCount": "142",
         "commentCount": "12"
     },
@@ -985,7 +1210,7 @@
         "title": "AKHIRNYA KITA BERHASIL MEMBUNUH EL CHOO-CHOO! [CHOO CHOO CHARLES #2]",
         "publishedAt": "2024-09-23T14:59:03Z",
         "duration": "PT1H25M52S",
-        "viewCount": "1685",
+        "viewCount": "1707",
         "likeCount": "68",
         "commentCount": "0"
     },
@@ -994,7 +1219,7 @@
         "title": "AKHIRNYA SELESAI! TAPI ENDINGNYA.. [FIVE NIGHTS AT FREDDY'S: INTO THE PIT #4]",
         "publishedAt": "2024-09-19T15:13:22Z",
         "duration": "PT2H9M37S",
-        "viewCount": "1815",
+        "viewCount": "1828",
         "likeCount": "71",
         "commentCount": "1"
     },
@@ -1003,7 +1228,7 @@
         "title": "MAKIN STRESS, HANTUNYA MAKIN BANYAK.. [NIGHTS AT FREDDY'S: INTO THE PIT #3]",
         "publishedAt": "2024-09-17T12:44:50Z",
         "duration": "PT1H16M16S",
-        "viewCount": "1575",
+        "viewCount": "1586",
         "likeCount": "58",
         "commentCount": "8"
     },
@@ -1012,8 +1237,8 @@
         "title": "SENDIRIAN DI RUMAH SAMA KAKEK-KAKEK MESUM [FEARS TO FATHOM: WOODBURY GETAWAY (FINAL PART)]",
         "publishedAt": "2024-09-15T10:51:47Z",
         "duration": "PT1H56M19S",
-        "viewCount": "3166",
-        "likeCount": "110",
+        "viewCount": "3247",
+        "likeCount": "112",
         "commentCount": "2"
     },
     {
@@ -1021,7 +1246,7 @@
         "title": "PETAK UMPET RUSA JADI-JADIAN [OH DEER BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-09-13T16:59:22Z",
         "duration": "PT1H24M37S",
-        "viewCount": "5261",
+        "viewCount": "5351",
         "likeCount": "174",
         "commentCount": "8"
     },
@@ -1030,17 +1255,17 @@
         "title": "ADA YANG ANEH SAMA LAKI-LAKI INI.. [FEARS TO FATHOM: WOODBURY GETAWAY]",
         "publishedAt": "2024-09-13T15:07:24Z",
         "duration": "PT1H15M56S",
-        "viewCount": "2870",
+        "viewCount": "2905",
         "likeCount": "106",
-        "commentCount": "5"
+        "commentCount": "6"
     },
     {
         "video_id": "HzH1x0lBYFk",
         "title": "SIAPA PENGKHIANATNYA? [LOCKDOWN PROTOCOL BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-09-08T17:15:32Z",
         "duration": "PT2H2S",
-        "viewCount": "6866",
-        "likeCount": "224",
+        "viewCount": "6948",
+        "likeCount": "225",
         "commentCount": "13"
     },
     {
@@ -1048,8 +1273,8 @@
         "title": "MAKIN RAME MAKIN BANYAK MASALAH.. [PARTY ANIMALS BERSAMA EL BEDEBAH #5]",
         "publishedAt": "2024-09-06T17:23:42Z",
         "duration": "PT2H9M42S",
-        "viewCount": "7917",
-        "likeCount": "233",
+        "viewCount": "8024",
+        "likeCount": "234",
         "commentCount": "13"
     },
     {
@@ -1057,8 +1282,8 @@
         "title": "Banyak banget gangguan di live stream ini.. [PARTY ANIMALS BERSAMA EL BEDEBAH #4]",
         "publishedAt": "2024-09-05T15:17:52Z",
         "duration": "PT1H7M40S",
-        "viewCount": "3996",
-        "likeCount": "118",
+        "viewCount": "4036",
+        "likeCount": "119",
         "commentCount": "10"
     },
     {
@@ -1066,7 +1291,7 @@
         "title": "ROBOT-ROBOT NYA MAKIN ANEH. [NIGHTS AT FREDDY'S: INTO THE PIT #2]",
         "publishedAt": "2024-09-04T14:46:37Z",
         "duration": "PT1H16M45S",
-        "viewCount": "1572",
+        "viewCount": "1586",
         "likeCount": "68",
         "commentCount": "2"
     },
@@ -1075,8 +1300,8 @@
         "title": "KEMBALI BERMAIN PARTY ANIMALS BERSAMA EL BEDEBAH!",
         "publishedAt": "2024-08-30T17:16:30Z",
         "duration": "PT1H55M28S",
-        "viewCount": "8181",
-        "likeCount": "248",
+        "viewCount": "8308",
+        "likeCount": "249",
         "commentCount": "29"
     },
     {
@@ -1084,7 +1309,7 @@
         "title": "KALI INI AKU MENGAKU KALAH.. [PUMMEL PARTY BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-08-29T16:15:25Z",
         "duration": "PT1H19M54S",
-        "viewCount": "6156",
+        "viewCount": "6286",
         "likeCount": "206",
         "commentCount": "11"
     },
@@ -1093,8 +1318,8 @@
         "title": "AKHIRNYA MAIN PUMMEL PARTY LAGI, KALI INI MAKIN RAME. [PUMMEL PARTY BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-08-17T17:36:08Z",
         "duration": "PT2H4M57S",
-        "viewCount": "11636",
-        "likeCount": "323",
+        "viewCount": "11880",
+        "likeCount": "325",
         "commentCount": "40"
     },
     {
@@ -1102,7 +1327,7 @@
         "title": "TERNYATA DIATAS LANGIT MASIH ADA LANGIT..  [CHAINED TOGETHER BERSAMA EL BEDEBAH #3]",
         "publishedAt": "2024-08-14T13:32:29Z",
         "duration": "PT1H39M34S",
-        "viewCount": "6571",
+        "viewCount": "6638",
         "likeCount": "196",
         "commentCount": "18"
     },
@@ -1111,7 +1336,7 @@
         "title": "KATANYA BAGUS BANGET NI GAME HORROR. MARI KITA BUKTIKAN. [FIVE NIGHTS AT FREDDY'S: INTO THE PIT]",
         "publishedAt": "2024-08-11T11:10:08Z",
         "duration": "PT1H9M14S",
-        "viewCount": "1797",
+        "viewCount": "1813",
         "likeCount": "76",
         "commentCount": "11"
     },
@@ -1120,8 +1345,8 @@
         "title": "GAME TERSEREM VERSI GUA TAHUN INI, BISA DENGER SUARA KITA. SYIT. [SUPERNATURAL]",
         "publishedAt": "2024-07-28T16:25:58Z",
         "duration": "PT2H7M29S",
-        "viewCount": "4772",
-        "likeCount": "204",
+        "viewCount": "4836",
+        "likeCount": "205",
         "commentCount": "13"
     },
     {
@@ -1129,8 +1354,8 @@
         "title": "NAMATIN FATHER'S DAY SENDIRIAN. TANPA BANTUAN. AKU HEBAT. [FATHER'S DAY #3]",
         "publishedAt": "2024-07-26T12:44:34Z",
         "duration": "PT1H10M31S",
-        "viewCount": "2069",
-        "likeCount": "84",
+        "viewCount": "2105",
+        "likeCount": "85",
         "commentCount": "12"
     },
     {
@@ -1138,7 +1363,7 @@
         "title": "KAMI HAMPIR MENCAPAI LANGIT [CHAINED TOGETHER BERSAMA EL BEDEBAH #2]",
         "publishedAt": "2024-07-17T16:49:34Z",
         "duration": "PT1H47M22S",
-        "viewCount": "10836",
+        "viewCount": "10904",
         "likeCount": "381",
         "commentCount": "22"
     },
@@ -1147,7 +1372,7 @@
         "title": "NGULANGIN FATHER'S DAY BERSAMA EL KOKO [FATHER'S DAY #2]",
         "publishedAt": "2024-07-14T15:16:46Z",
         "duration": "PT1H53M27S",
-        "viewCount": "2922",
+        "viewCount": "2938",
         "likeCount": "98",
         "commentCount": "2"
     },
@@ -1156,8 +1381,8 @@
         "title": "CHAINED TOGETHER BERSAMA EL BEDEBAH",
         "publishedAt": "2024-07-13T16:16:07Z",
         "duration": "PT1H52M16S",
-        "viewCount": "11665",
-        "likeCount": "420",
+        "viewCount": "11763",
+        "likeCount": "419",
         "commentCount": "49"
     },
     {
@@ -1165,25 +1390,25 @@
         "title": "VLOG NIKAHAN MARCO & DEBI",
         "publishedAt": "2024-06-19T09:55:28Z",
         "duration": "PT26M51S",
-        "viewCount": "123628",
-        "likeCount": "4511",
-        "commentCount": "150"
+        "viewCount": "129643",
+        "likeCount": "4657",
+        "commentCount": "154"
     },
     {
         "video_id": "67rRTgRgZ1M",
         "title": "MENCOBA MENJADI KUCING KOMPLEK SEJENAK. [LITTLE KITTY, BIG CITY]",
         "publishedAt": "2024-05-17T11:46:54Z",
         "duration": "PT1H12M49S",
-        "viewCount": "2189",
-        "likeCount": "80",
+        "viewCount": "2200",
+        "likeCount": "81",
         "commentCount": "3"
     },
     {
         "video_id": "yR4zIRu-MiA",
         "title": "MENAMATKAN THE CLASSROOMS BERSAMA EL KOKO",
         "publishedAt": "2024-05-09T15:13:46Z",
-        "duration": "PT2H4M20S",
-        "viewCount": "2705",
+        "duration": "PT2H4M21S",
+        "viewCount": "2740",
         "likeCount": "108",
         "commentCount": "5"
     },
@@ -1192,7 +1417,7 @@
         "title": "LANJUTAN THE BACKROOMS, BIKIN DEPRESI. [THE CLASSROOMS]",
         "publishedAt": "2024-05-03T14:14:00Z",
         "duration": "PT1H37M2S",
-        "viewCount": "2314",
+        "viewCount": "2329",
         "likeCount": "91",
         "commentCount": "1"
     },
@@ -1201,7 +1426,7 @@
         "title": "UDAH DICULIK, DIKEJER SETAN PULA. [CHILLA'S ART THE KIDNAP]",
         "publishedAt": "2024-05-01T14:22:07Z",
         "duration": "PT2H3M52S",
-        "viewCount": "2870",
+        "viewCount": "2914",
         "likeCount": "132",
         "commentCount": "1"
     },
@@ -1210,7 +1435,7 @@
         "title": "DIKEJAR-KEJAR JIN KERETA [CHOO CHOO CHARLES #1]",
         "publishedAt": "2024-04-01T21:49:52Z",
         "duration": "PT1H44M16S",
-        "viewCount": "2373",
+        "viewCount": "2392",
         "likeCount": "108",
         "commentCount": "7"
     },
@@ -1219,7 +1444,7 @@
         "title": "DI STALK PAS LAGI STREAMING [CHILLA'S ART PARASOCIAL]",
         "publishedAt": "2024-03-31T22:09:17Z",
         "duration": "PT1H56M50S",
-        "viewCount": "2242",
+        "viewCount": "2264",
         "likeCount": "98",
         "commentCount": "3"
     },
@@ -1228,7 +1453,7 @@
         "title": "NGABUBURIT MAIN 2 GAME, CAKEP. [CHILLA'S ART PARASOCIAL & RYTHM BATTLE ROYALE]",
         "publishedAt": "2024-03-30T11:05:47Z",
         "duration": "PT1H6M4S",
-        "viewCount": "2058",
+        "viewCount": "2073",
         "likeCount": "88",
         "commentCount": "7"
     },
@@ -1237,17 +1462,17 @@
         "title": "Terakhir kali main game ini. [Outlast Trials]",
         "publishedAt": "2024-03-28T21:50:52Z",
         "duration": "PT1H21M41S",
-        "viewCount": "2815",
+        "viewCount": "2846",
         "likeCount": "130",
-        "commentCount": "14"
+        "commentCount": "13"
     },
     {
         "video_id": "z1J2ga67zFo",
         "title": "EL MAMA SUBUH-SUBUH LARINYA MALAH MAKIN KENCENG [OUTLAST TRIALS BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-03-24T21:35:32Z",
-        "duration": "PT1H13M49S",
-        "viewCount": "2647",
-        "likeCount": "103",
+        "duration": "PT1H13M50S",
+        "viewCount": "2681",
+        "likeCount": "104",
         "commentCount": "1"
     },
     {
@@ -1255,7 +1480,7 @@
         "title": "MAIN SAMA ORANG LEVEL 60 TAPI MALAH DIA YANG BEBAN :( [OUTLAST TRIALS]",
         "publishedAt": "2024-03-20T21:59:14Z",
         "duration": "PT1H20M57S",
-        "viewCount": "2635",
+        "viewCount": "2664",
         "likeCount": "117",
         "commentCount": "7"
     },
@@ -1264,7 +1489,7 @@
         "title": "AKHIRNYA MAIN FULL TEAM! [OUTLAST TRIALS BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-03-16T22:26:24Z",
         "duration": "PT2H14M3S",
-        "viewCount": "5100",
+        "viewCount": "5160",
         "likeCount": "159",
         "commentCount": "7"
     },
@@ -1273,7 +1498,7 @@
         "title": "APAKAH AKU BISA MEMBELI KOSTUM BARU HARI INI? [OUTLAST TRIALS BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-03-12T21:31:51Z",
         "duration": "PT1H15M8S",
-        "viewCount": "2726",
+        "viewCount": "2762",
         "likeCount": "120",
         "commentCount": "6"
     },
@@ -1282,7 +1507,7 @@
         "title": "SAHUR PERTAMA DI 2024 DITEMANI OLEH VALAK [OUTLAST TRIALS BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-03-11T21:36:37Z",
         "duration": "PT1H11M48S",
-        "viewCount": "3338",
+        "viewCount": "3373",
         "likeCount": "161",
         "commentCount": "6"
     },
@@ -1291,7 +1516,7 @@
         "title": "SIAPA YANG PALING BEBAN DIANTARA KAMI? [OUTLAST TRIALS BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-03-10T18:02:03Z",
         "duration": "PT1H56M16S",
-        "viewCount": "3238",
+        "viewCount": "3303",
         "likeCount": "101",
         "commentCount": "4"
     },
@@ -1300,7 +1525,7 @@
         "title": "DIKEJAR-KEJAR GURU PSIKOPAT [OUTLAST TRIALS BERSAMA EL BEDEBAH]",
         "publishedAt": "2024-03-08T17:53:56Z",
         "duration": "PT1H35M18S",
-        "viewCount": "3257",
+        "viewCount": "3321",
         "likeCount": "133",
         "commentCount": "3"
     },
@@ -1309,7 +1534,7 @@
         "title": "THE OUTLAST TRIALS BERSAMA PARA BEDEBAH",
         "publishedAt": "2024-03-07T17:54:49Z",
         "duration": "PT1H46M14S",
-        "viewCount": "3981",
+        "viewCount": "4053",
         "likeCount": "154",
         "commentCount": "8"
     },
@@ -1318,7 +1543,7 @@
         "title": "PALWORLD, GAME YANG LAGI DIMAININ SEJUTA UMAT",
         "publishedAt": "2024-01-27T05:38:18Z",
         "duration": "PT1H47M34S",
-        "viewCount": "1558",
+        "viewCount": "1569",
         "likeCount": "62",
         "commentCount": "3"
     },
@@ -1327,8 +1552,8 @@
         "title": "Terima kasih Vivi.",
         "publishedAt": "2023-11-25T12:36:30Z",
         "duration": "PT1H7M12S",
-        "viewCount": "4686",
-        "likeCount": "366",
+        "viewCount": "4728",
+        "likeCount": "368",
         "commentCount": "27"
     },
     {
@@ -1336,8 +1561,8 @@
         "title": "JAGAIN HUTAN BERHANTU! [FEARS TO FATHOM: IRONBARK LOOKOUT]",
         "publishedAt": "2023-11-19T16:06:27Z",
         "duration": "PT2H36M15S",
-        "viewCount": "3889",
-        "likeCount": "130",
+        "viewCount": "3973",
+        "likeCount": "133",
         "commentCount": "8"
     },
     {
@@ -1345,8 +1570,8 @@
         "title": "DON'T SCREAM BERSAMA MARCO DEBI",
         "publishedAt": "2023-11-01T16:02:41Z",
         "duration": "PT1H6M24S",
-        "viewCount": "4249",
-        "likeCount": "142",
+        "viewCount": "4303",
+        "likeCount": "141",
         "commentCount": "4"
     },
     {
@@ -1354,17 +1579,17 @@
         "title": "LANJOT IT TAKES TWO AMA GIPINAH #3",
         "publishedAt": "2023-10-30T13:11:35Z",
         "duration": "PT1H25M17S",
-        "viewCount": "1440",
-        "likeCount": "50",
-        "commentCount": "3"
+        "viewCount": "1494",
+        "likeCount": "52",
+        "commentCount": "4"
     },
     {
         "video_id": "Z1kQTU2mZfI",
         "title": "LUNCH LADY EDISI HALLOWEEN BERSAMA EL BEDEBAH",
         "publishedAt": "2023-10-26T16:26:50Z",
         "duration": "PT1H23M26S",
-        "viewCount": "4510",
-        "likeCount": "168",
+        "viewCount": "4556",
+        "likeCount": "167",
         "commentCount": "11"
     },
     {
@@ -1372,8 +1597,8 @@
         "title": "LANJUT IT TAKES TWO AMA GIPINA #2",
         "publishedAt": "2023-10-19T12:55:04Z",
         "duration": "PT1H19M55S",
-        "viewCount": "1539",
-        "likeCount": "57",
+        "viewCount": "1614",
+        "likeCount": "58",
         "commentCount": "0"
     },
     {
@@ -1381,8 +1606,8 @@
         "title": "IT TAKES TWO BERSAMA GIVINA",
         "publishedAt": "2023-10-18T14:36:36Z",
         "duration": "PT2H21M8S",
-        "viewCount": "3803",
-        "likeCount": "97",
+        "viewCount": "4276",
+        "likeCount": "105",
         "commentCount": "3"
     },
     {
@@ -1390,7 +1615,7 @@
         "title": "MAIN CHILLA'S ART NIGHT SECURITY",
         "publishedAt": "2023-10-15T16:27:55Z",
         "duration": "PT2H3M19S",
-        "viewCount": "2421",
+        "viewCount": "2443",
         "likeCount": "109",
         "commentCount": "3"
     },
@@ -1399,7 +1624,7 @@
         "title": "NAMBAH OHIM JADI MAKIN RUSUH [PARTY ANIMALS BERSAMA EL BEDEBAH]",
         "publishedAt": "2023-10-13T17:23:51Z",
         "duration": "PT1H18M18S",
-        "viewCount": "4761",
+        "viewCount": "4803",
         "likeCount": "134",
         "commentCount": "3"
     },
@@ -1408,7 +1633,7 @@
         "title": "PARTY ANIMALS BERSAMA PARA BEDEBAH",
         "publishedAt": "2023-10-12T17:19:01Z",
         "duration": "PT1H30M16S",
-        "viewCount": "4510",
+        "viewCount": "4536",
         "likeCount": "144",
         "commentCount": "3"
     },
@@ -1417,17 +1642,17 @@
         "title": "LANJUTIN THE QUARRY BERSAMA GIVINA",
         "publishedAt": "2023-06-24T14:54:26Z",
         "duration": "PT1H40M21S",
-        "viewCount": "1490",
-        "likeCount": "50",
-        "commentCount": "2"
+        "viewCount": "1552",
+        "likeCount": "52",
+        "commentCount": "3"
     },
     {
         "video_id": "wNHW6WLLR8I",
         "title": "THE QUARRY BERSAMA GIVINA",
         "publishedAt": "2023-06-23T15:21:41Z",
         "duration": "PT2H3M18S",
-        "viewCount": "1678",
-        "likeCount": "59",
+        "viewCount": "1747",
+        "likeCount": "61",
         "commentCount": "1"
     },
     {
@@ -1435,7 +1660,7 @@
         "title": "LUNCH LADY ADA SEQUEL NYA?! [PARANORMAL CLEANUP] - BERSAMA PARA BEDEBAH",
         "publishedAt": "2023-05-25T17:14:29Z",
         "duration": "PT1H48M7S",
-        "viewCount": "3988",
+        "viewCount": "4011",
         "likeCount": "156",
         "commentCount": "5"
     },
@@ -1444,7 +1669,7 @@
         "title": "AKHIRNYA TAMAT! [MAID OF SKER BERSAMA EL KOKO #3]",
         "publishedAt": "2023-05-09T15:34:29Z",
         "duration": "PT2H18M30S",
-        "viewCount": "1726",
+        "viewCount": "1734",
         "likeCount": "84",
         "commentCount": "1"
     },
@@ -1453,7 +1678,7 @@
         "title": "MENYELAMATKAN TETANGGA DARI BADUT PSIKOPAT [FATHER'S DAY #1]",
         "publishedAt": "2023-05-04T16:37:05Z",
         "duration": "PT1H46M7S",
-        "viewCount": "2186",
+        "viewCount": "2193",
         "likeCount": "83",
         "commentCount": "3"
     },
@@ -1462,8 +1687,8 @@
         "title": "14.44 AL-IYO FM LIVE EP.6 - GIVINA",
         "publishedAt": "2023-04-17T11:05:42Z",
         "duration": "PT1H4M25S",
-        "viewCount": "5635",
-        "likeCount": "200",
+        "viewCount": "6028",
+        "likeCount": "212",
         "commentCount": "5"
     },
     {
@@ -1471,8 +1696,8 @@
         "title": "14.44 AL-IYO FM LIVE EP.5 - DION MULYA",
         "publishedAt": "2023-04-14T10:23:31Z",
         "duration": "PT1H13M44S",
-        "viewCount": "4753",
-        "likeCount": "185",
+        "viewCount": "4762",
+        "likeCount": "184",
         "commentCount": "6"
     },
     {
@@ -1480,8 +1705,8 @@
         "title": "14.44 AL-IYO FM LIVE EP.4 - AKBARRY NOOR & CINDY LAUW",
         "publishedAt": "2023-04-10T19:51:45Z",
         "duration": "PT1H33M30S",
-        "viewCount": "2617",
-        "likeCount": "40",
+        "viewCount": "2734",
+        "likeCount": "42",
         "commentCount": "6"
     },
     {
@@ -1489,7 +1714,7 @@
         "title": "MENCARI SEMUA ENDING CHILLA'S ART THE KARAOKE",
         "publishedAt": "2023-04-09T11:09:25Z",
         "duration": "PT1H3M4S",
-        "viewCount": "1525",
+        "viewCount": "1529",
         "likeCount": "75",
         "commentCount": "2"
     },
@@ -1498,17 +1723,17 @@
         "title": "14.44 AL-IYO FM LIVE EP.3 - MIRA AGILE & HANA ALAYDRUS",
         "publishedAt": "2023-04-03T10:31:47Z",
         "duration": "PT1H19M5S",
-        "viewCount": "12067",
+        "viewCount": "12122",
         "likeCount": "595",
-        "commentCount": "51"
+        "commentCount": "52"
     },
     {
         "video_id": "PUJKThjeQiw",
         "title": "YEAH UDAH KELUAR FULL VERSION NYA [TROUBLEMAKER]",
         "publishedAt": "2023-04-02T16:47:48Z",
         "duration": "PT1H22M9S",
-        "viewCount": "1535",
-        "likeCount": "77",
+        "viewCount": "1544",
+        "likeCount": "78",
         "commentCount": "2"
     },
     {
@@ -1516,7 +1741,7 @@
         "title": "14.44 AL-IYO FM LIVE EP.2 - MARCO IVANOS & DEBI SAGITA",
         "publishedAt": "2023-03-30T10:52:29Z",
         "duration": "PT1H35M53S",
-        "viewCount": "10246",
+        "viewCount": "10323",
         "likeCount": "415",
         "commentCount": "14"
     },
@@ -1525,7 +1750,7 @@
         "title": "DICABULI DI INUL VISTA OSAKA [CHILLA'S ART - THE KARAOKE]",
         "publishedAt": "2023-03-29T10:27:36Z",
         "duration": "PT1H12M26S",
-        "viewCount": "2110",
+        "viewCount": "2119",
         "likeCount": "92",
         "commentCount": "1"
     },
@@ -1534,7 +1759,7 @@
         "title": "RAMADHAN MEMBAWA HOKI [PUMMEL PARTY BERSAMA PARA BEDEBAH]",
         "publishedAt": "2023-03-25T16:59:35Z",
         "duration": "PT1H35M43S",
-        "viewCount": "4940",
+        "viewCount": "5018",
         "likeCount": "152",
         "commentCount": "3"
     },
@@ -1543,8 +1768,8 @@
         "title": "BAPAK JAHAT APA BAEK SIH? [THE QUARRY #2]",
         "publishedAt": "2023-03-24T20:41:54Z",
         "duration": "PT1H27M41S",
-        "viewCount": "1561",
-        "likeCount": "93",
+        "viewCount": "1569",
+        "likeCount": "94",
         "commentCount": "7"
     },
     {
@@ -1552,8 +1777,8 @@
         "title": "14.44 AL-IYO FM LIVE EP.1 - DWIHANDA",
         "publishedAt": "2023-03-23T10:19:45Z",
         "duration": "PT1H12M6S",
-        "viewCount": "18880",
-        "likeCount": "1045",
+        "viewCount": "18974",
+        "likeCount": "1048",
         "commentCount": "54"
     },
     {
@@ -1561,7 +1786,7 @@
         "title": "LANJUTIN MORTUARY ASISTANT (AKHIRNYA)",
         "publishedAt": "2023-03-19T15:54:58Z",
         "duration": "PT2H7M47S",
-        "viewCount": "1950",
+        "viewCount": "1951",
         "likeCount": "88",
         "commentCount": "2"
     },
@@ -1570,8 +1795,8 @@
         "title": "FEARS TO FATHOM: CARSON HOUSE",
         "publishedAt": "2023-03-16T15:05:34Z",
         "duration": "PT2H15M42S",
-        "viewCount": "2965",
-        "likeCount": "104",
+        "viewCount": "2988",
+        "likeCount": "105",
         "commentCount": "2"
     },
     {
@@ -1579,7 +1804,7 @@
         "title": "MAP BARU DEVOUR BERSAMA EL BEDEBAH",
         "publishedAt": "2023-03-13T16:24:58Z",
         "duration": "PT2H9M13S",
-        "viewCount": "5338",
+        "viewCount": "5407",
         "likeCount": "152",
         "commentCount": "5"
     },
@@ -1588,7 +1813,7 @@
         "title": "NYOBAIN SONS OF THE FOREST BERSAMA PARA BEDEBAH",
         "publishedAt": "2023-03-07T17:39:54Z",
         "duration": "PT1H54M6S",
-        "viewCount": "3304",
+        "viewCount": "3315",
         "likeCount": "129",
         "commentCount": "5"
     },
@@ -1597,26 +1822,26 @@
         "title": "BELEK (EPISODE 3) - MEMBEDAH KONTEN DEWASA FT. NIKY PUTRA",
         "publishedAt": "2023-03-04T12:00:12Z",
         "duration": "PT19M51S",
-        "viewCount": "69096",
-        "likeCount": "2675",
-        "commentCount": "149"
+        "viewCount": "74813",
+        "likeCount": "2846",
+        "commentCount": "163"
     },
     {
         "video_id": "74cHOuYfp84",
         "title": "MARIO KE EROPA GES #2 (EUROPE VLOG)",
         "publishedAt": "2023-02-26T04:00:02Z",
         "duration": "PT41M4S",
-        "viewCount": "10741",
-        "likeCount": "389",
-        "commentCount": "45"
+        "viewCount": "11085",
+        "likeCount": "393",
+        "commentCount": "46"
     },
     {
         "video_id": "cqQDsbi6OQ8",
         "title": "MARIO KE EROPA GES #1",
         "publishedAt": "2023-01-08T04:41:07Z",
         "duration": "PT23M22S",
-        "viewCount": "9973",
-        "likeCount": "532",
+        "viewCount": "10348",
+        "likeCount": "542",
         "commentCount": "62"
     },
     {
@@ -1624,7 +1849,7 @@
         "title": "NONTON VIDEO SEREM BERSAMA EL KOKO",
         "publishedAt": "2022-12-28T15:44:08Z",
         "duration": "PT1H54M43S",
-        "viewCount": "1958",
+        "viewCount": "1966",
         "likeCount": "69",
         "commentCount": "2"
     },
@@ -1633,7 +1858,7 @@
         "title": "MAIN GAME SERASA NONTON FILM [THE QUARRY #1]",
         "publishedAt": "2022-12-26T14:44:52Z",
         "duration": "PT43M56S",
-        "viewCount": "1293",
+        "viewCount": "1302",
         "likeCount": "70",
         "commentCount": "2"
     },
@@ -1642,8 +1867,8 @@
         "title": "GUA KETAWA LU DAPET CEBAN",
         "publishedAt": "2022-12-26T13:16:47Z",
         "duration": "PT1H2M39S",
-        "viewCount": "2348",
-        "likeCount": "87",
+        "viewCount": "2363",
+        "likeCount": "88",
         "commentCount": "0"
     },
     {
@@ -1651,8 +1876,8 @@
         "title": "GIVINA IS HERE",
         "publishedAt": "2022-12-24T14:35:35Z",
         "duration": "PT1H23M47S",
-        "viewCount": "8660",
-        "likeCount": "316",
+        "viewCount": "8822",
+        "likeCount": "322",
         "commentCount": "26"
     },
     {
@@ -1660,7 +1885,7 @@
         "title": "PUMMEL BERSAMA PARA BEDEBAH LAGEH",
         "publishedAt": "2022-12-14T17:21:39Z",
         "duration": "PT1H53M38S",
-        "viewCount": "4992",
+        "viewCount": "5102",
         "likeCount": "128",
         "commentCount": "10"
     },
@@ -1669,8 +1894,8 @@
         "title": "BIRTHDAY LIVE STREAM SPECIAL (YEAR 2)",
         "publishedAt": "2022-11-28T16:48:31Z",
         "duration": "PT2H13M58S",
-        "viewCount": "2504",
-        "likeCount": "97",
+        "viewCount": "2547",
+        "likeCount": "100",
         "commentCount": "3"
     },
     {
@@ -1678,7 +1903,7 @@
         "title": "PUMMEL PARTY BERSAMA BEDEBAH AGAIN AND AGAIN",
         "publishedAt": "2022-11-25T18:19:22Z",
         "duration": "PT1H31M44S",
-        "viewCount": "5243",
+        "viewCount": "5354",
         "likeCount": "157",
         "commentCount": "7"
     },
@@ -1687,7 +1912,7 @@
         "title": "DICULIK PSIKOPAT [STAY OUT OF THE HOUSE #2]",
         "publishedAt": "2022-11-23T13:44:18Z",
         "duration": "PT55M36S",
-        "viewCount": "1355",
+        "viewCount": "1362",
         "likeCount": "52",
         "commentCount": "1"
     },
@@ -1696,7 +1921,7 @@
         "title": "APAKAH AKAN SESERU REVIEW NYA? [STAY OUT OF THE HOUSE #1]",
         "publishedAt": "2022-11-23T12:27:31Z",
         "duration": "PT30M39S",
-        "viewCount": "1183",
+        "viewCount": "1186",
         "likeCount": "63",
         "commentCount": "4"
     },
@@ -1705,7 +1930,7 @@
         "title": "3 GAME HORROR WARISAN UNESCO",
         "publishedAt": "2022-11-22T15:01:44Z",
         "duration": "PT1H53S",
-        "viewCount": "1122",
+        "viewCount": "1125",
         "likeCount": "62",
         "commentCount": "3"
     },
@@ -1714,7 +1939,7 @@
         "title": "NYOBAIN STREAMING OVERWATCH BERSAMA KAWAN2KU",
         "publishedAt": "2022-11-20T16:44:17Z",
         "duration": "PT1H53M10S",
-        "viewCount": "1371",
+        "viewCount": "1382",
         "likeCount": "57",
         "commentCount": "0"
     },
@@ -1732,7 +1957,7 @@
         "title": "TEMPAT PEMANDIAN KERAMAT [THE BATHHOUSE]",
         "publishedAt": "2022-11-16T16:36:21Z",
         "duration": "PT1H44M49S",
-        "viewCount": "2460",
+        "viewCount": "2463",
         "likeCount": "114",
         "commentCount": "2"
     },
@@ -1741,7 +1966,7 @@
         "title": "FALL GUYS BERSAMA EL KOKO",
         "publishedAt": "2022-09-19T17:09:02Z",
         "duration": "PT2H6M",
-        "viewCount": "2437",
+        "viewCount": "2447",
         "likeCount": "119",
         "commentCount": "6"
     },
@@ -1750,7 +1975,7 @@
         "title": "EL SATPAM TELEPORT KE ALAM BAKA [SECURITY BOOTH #2]",
         "publishedAt": "2022-09-15T16:32:01Z",
         "duration": "PT1H29M29S",
-        "viewCount": "1663",
+        "viewCount": "1664",
         "likeCount": "90",
         "commentCount": "2"
     },
@@ -1759,7 +1984,7 @@
         "title": "APAKAH AKU BISA BERTAHAN SELAMA 2 MENIT? [GARRY'S MOD: NEXTBOT]",
         "publishedAt": "2022-09-15T14:37:22Z",
         "duration": "PT52M1S",
-        "viewCount": "1257",
+        "viewCount": "1258",
         "likeCount": "73",
         "commentCount": "1"
     },
@@ -1768,7 +1993,7 @@
         "title": "GINI AMAT JADI SATPAM [SECURITY BOOTH #1]",
         "publishedAt": "2022-09-14T17:05:39Z",
         "duration": "PT1H34M48S",
-        "viewCount": "1835",
+        "viewCount": "1846",
         "likeCount": "95",
         "commentCount": "4"
     },
@@ -1777,7 +2002,7 @@
         "title": "AKHIRNYA BACKROOMS TAMAT [ESCAPE THE BACKROOMS #2]",
         "publishedAt": "2022-09-07T16:28:44Z",
         "duration": "PT1H7M46S",
-        "viewCount": "1511",
+        "viewCount": "1515",
         "likeCount": "93",
         "commentCount": "2"
     },
@@ -1786,7 +2011,7 @@
         "title": "KALI INI AKAN KU TAKLUKAN BACKROOMS [ESCAPE THE BACKROOMS #1]",
         "publishedAt": "2022-09-06T17:14:32Z",
         "duration": "PT1H11M21S",
-        "viewCount": "1489",
+        "viewCount": "1503",
         "likeCount": "90",
         "commentCount": "1"
     },
@@ -1795,7 +2020,7 @@
         "title": "USTAD UDIN PORTAL IS BACK [GTA ROLEPLAY]",
         "publishedAt": "2022-08-31T18:01:45Z",
         "duration": "PT2H21M6S",
-        "viewCount": "4876",
+        "viewCount": "4928",
         "likeCount": "236",
         "commentCount": "15"
     },
@@ -1804,7 +2029,7 @@
         "title": "MARI NONTON VIDEO2 SAMPAH KALIAN",
         "publishedAt": "2022-08-30T17:28:09Z",
         "duration": "PT1H15M6S",
-        "viewCount": "1896",
+        "viewCount": "1901",
         "likeCount": "101",
         "commentCount": "5"
     },
@@ -1822,7 +2047,7 @@
         "title": "STREAM TERLAMA GUA THX BACKROOMS.",
         "publishedAt": "2022-08-18T18:17:43Z",
         "duration": "PT3H26M35S",
-        "viewCount": "2746",
+        "viewCount": "2750",
         "likeCount": "119",
         "commentCount": "2"
     },
@@ -1831,7 +2056,7 @@
         "title": "GAME2 HORROR BERKUALITAS",
         "publishedAt": "2022-08-15T16:40:52Z",
         "duration": "PT1H17M16S",
-        "viewCount": "1483",
+        "viewCount": "1484",
         "likeCount": "92",
         "commentCount": "1"
     },
@@ -1840,7 +2065,7 @@
         "title": "AKU MENEMUKAN SONIC [FALL GUYS #2]",
         "publishedAt": "2022-08-15T09:22:41Z",
         "duration": "PT1H10M35S",
-        "viewCount": "1614",
+        "viewCount": "1616",
         "likeCount": "84",
         "commentCount": "2"
     },
@@ -1867,7 +2092,7 @@
         "title": "AKHIRNYA ADA TEMEN MAEN BACKROOMS [INSIDE THE BACKROOMS WITH EL KOKO]",
         "publishedAt": "2022-08-08T17:39:09Z",
         "duration": "PT2H5M35S",
-        "viewCount": "2439",
+        "viewCount": "2443",
         "likeCount": "107",
         "commentCount": "2"
     },
@@ -1876,7 +2101,7 @@
         "title": "DIKEJAR-KEJAR MONYET DUFAN BERSAMA AISYA DAN EL KOKO [DARK DECEPTION]",
         "publishedAt": "2022-08-02T10:45:10Z",
         "duration": "PT1H27M57S",
-        "viewCount": "2797",
+        "viewCount": "2798",
         "likeCount": "125",
         "commentCount": "2"
     },
@@ -1885,7 +2110,7 @@
         "title": "SELAMAT JALAN EL KOKO :(",
         "publishedAt": "2022-08-01T15:43:39Z",
         "duration": "PT1H39M36S",
-        "viewCount": "2209",
+        "viewCount": "2214",
         "likeCount": "133",
         "commentCount": "2"
     },
@@ -1894,8 +2119,8 @@
         "title": "MENJADI PENJAGA MAYAT BERSAMA AISYA EL CABRON [THE MORTUARY ASSISTANT]",
         "publishedAt": "2022-07-26T14:27:09Z",
         "duration": "PT1H22M50S",
-        "viewCount": "4113",
-        "likeCount": "202",
+        "viewCount": "4126",
+        "likeCount": "203",
         "commentCount": "7"
     },
     {
@@ -1903,7 +2128,7 @@
         "title": "FALL GUYS",
         "publishedAt": "2022-07-24T06:42:44Z",
         "duration": "PT1H22M29S",
-        "viewCount": "2968",
+        "viewCount": "2973",
         "likeCount": "146",
         "commentCount": "9"
     },
@@ -1921,7 +2146,7 @@
         "title": "ADA PENGKHIANAT DIANTARA BEDEBAH [FEAR THERAPY]",
         "publishedAt": "2022-07-21T17:42:53Z",
         "duration": "PT55M12S",
-        "viewCount": "5060",
+        "viewCount": "5089",
         "likeCount": "245",
         "commentCount": "7"
     },
@@ -1930,7 +2155,7 @@
         "title": "MATI 20 KALI UNTUK SAMPAI KE LANTAI 2 [MAID OF SKER BERSAMA EL KOKO] #2",
         "publishedAt": "2022-07-15T17:10:54Z",
         "duration": "PT2H18M4S",
-        "viewCount": "2622",
+        "viewCount": "2634",
         "likeCount": "96",
         "commentCount": "3"
     },
@@ -1939,7 +2164,7 @@
         "title": "BONEKA LAKNAT [POPPY PLAYTIME #1]",
         "publishedAt": "2022-07-14T14:57:17Z",
         "duration": "PT1H8M53S",
-        "viewCount": "1704",
+        "viewCount": "1708",
         "likeCount": "95",
         "commentCount": "0"
     },
@@ -1948,7 +2173,7 @@
         "title": "DORA DAN BOOTS KENAPA JADI BEGINI? [AMANDA THE ADVENTURER]",
         "publishedAt": "2022-07-14T13:11:59Z",
         "duration": "PT1H1M7S",
-        "viewCount": "1323",
+        "viewCount": "1331",
         "likeCount": "91",
         "commentCount": "0"
     },
@@ -1957,7 +2182,7 @@
         "title": "GAME HORROR SPONGEBOB LAGI? [THE TRUE INGREDIENTS]",
         "publishedAt": "2022-06-30T16:47:09Z",
         "duration": "PT1H4M45S",
-        "viewCount": "3188",
+        "viewCount": "3194",
         "likeCount": "124",
         "commentCount": "6"
     },
@@ -1966,7 +2191,7 @@
         "title": "LANJUTIN BACKROOMS DAH",
         "publishedAt": "2022-06-27T15:41:37Z",
         "duration": "PT2H3M22S",
-        "viewCount": "2626",
+        "viewCount": "2645",
         "likeCount": "133",
         "commentCount": "5"
     },
@@ -1975,7 +2200,7 @@
         "title": "NGAPUS GAME BACKROOMS",
         "publishedAt": "2022-06-27T15:38:13Z",
         "duration": "PT3M15S",
-        "viewCount": "960",
+        "viewCount": "964",
         "likeCount": "70",
         "commentCount": "5"
     },
@@ -1984,7 +2209,7 @@
         "title": "GUA HAMPIR BERAK DI CELANA [THE BACKROOMS 1998] #1",
         "publishedAt": "2022-06-20T16:21:26Z",
         "duration": "PT2H7S",
-        "viewCount": "3603",
+        "viewCount": "3620",
         "likeCount": "159",
         "commentCount": "2"
     },
@@ -1993,7 +2218,7 @@
         "title": "JANGAN BERSUARA! [MAID OF SKER #1]",
         "publishedAt": "2022-06-14T17:05:27Z",
         "duration": "PT2H25M59S",
-        "viewCount": "4977",
+        "viewCount": "5000",
         "likeCount": "170",
         "commentCount": "5"
     },
@@ -2002,8 +2227,8 @@
         "title": "APEX AMA BAKO & MPUT",
         "publishedAt": "2022-06-06T16:24:14Z",
         "duration": "PT1H16M58S",
-        "viewCount": "1834",
-        "likeCount": "86",
+        "viewCount": "1836",
+        "likeCount": "87",
         "commentCount": "1"
     },
     {
@@ -2011,7 +2236,7 @@
         "title": "JUMPSCARE DITEMANI EL KOKO [SLIT MOUTHED]",
         "publishedAt": "2022-06-05T15:57:38Z",
         "duration": "PT1H59M25S",
-        "viewCount": "3250",
+        "viewCount": "3261",
         "likeCount": "152",
         "commentCount": "10"
     },
@@ -2020,7 +2245,7 @@
         "title": "CRAB GAME LESGOH",
         "publishedAt": "2022-06-02T18:01:13Z",
         "duration": "PT31M20S",
-        "viewCount": "2113",
+        "viewCount": "2131",
         "likeCount": "131",
         "commentCount": "2"
     },
@@ -2029,7 +2254,7 @@
         "title": "GENG ORTU VS GENG EL DIABLO [PUMMEL PARTY #5]",
         "publishedAt": "2022-06-02T17:33:19Z",
         "duration": "PT1H25M8S",
-        "viewCount": "6269",
+        "viewCount": "6348",
         "likeCount": "208",
         "commentCount": "4"
     },
@@ -2038,7 +2263,7 @@
         "title": "BOSEN, NGAPAIN YA ENAKNYA?",
         "publishedAt": "2022-06-01T18:32:51Z",
         "duration": "PT1H56M",
-        "viewCount": "2780",
+        "viewCount": "2788",
         "likeCount": "162",
         "commentCount": "1"
     },
@@ -2047,7 +2272,7 @@
         "title": "MENGEJAR MIMPIKU SEBAGAI MUSISI WIBU [TAIKONO TATSUJIN]",
         "publishedAt": "2022-05-30T08:05:48Z",
         "duration": "PT1H6M47S",
-        "viewCount": "1908",
+        "viewCount": "1914",
         "likeCount": "103",
         "commentCount": "3"
     },
@@ -2056,8 +2281,8 @@
         "title": "AKHIRNYA BISA MERAZIA KOMPLEK SULTAN [THIEF SIMULATOR]",
         "publishedAt": "2022-05-29T10:13:58Z",
         "duration": "PT1H23M35S",
-        "viewCount": "1723",
-        "likeCount": "93",
+        "viewCount": "1724",
+        "likeCount": "92",
         "commentCount": "1"
     },
     {
@@ -2065,7 +2290,7 @@
         "title": "MAD FATHER",
         "publishedAt": "2022-05-27T18:06:03Z",
         "duration": "PT1H23M47S",
-        "viewCount": "1593",
+        "viewCount": "1600",
         "likeCount": "98",
         "commentCount": "4"
     },
@@ -2074,7 +2299,7 @@
         "title": "MENYELESAIKAN SEMUA ENDING! [PALMYRA ORPAHANGE #2]",
         "publishedAt": "2022-05-21T15:11:26Z",
         "duration": "PT1H28M25S",
-        "viewCount": "2117",
+        "viewCount": "2118",
         "likeCount": "102",
         "commentCount": "0"
     },
@@ -2083,7 +2308,7 @@
         "title": "LAGI SERU-SERUNYA MALAH DC ASU [APEX LEGENDS #3]",
         "publishedAt": "2022-05-19T17:09:41Z",
         "duration": "PT1H3M34S",
-        "viewCount": "1189",
+        "viewCount": "1190",
         "likeCount": "56",
         "commentCount": "0"
     },
@@ -2092,7 +2317,7 @@
         "title": "MENELUSURI PANTI ASUHAN ANGKER [PALMYRA ORPHANAGE]",
         "publishedAt": "2022-05-19T15:23:18Z",
         "duration": "PT2H22M21S",
-        "viewCount": "3069",
+        "viewCount": "3077",
         "likeCount": "135",
         "commentCount": "10"
     },
@@ -2110,7 +2335,7 @@
         "title": "NYOBAIN MULTIPLAYER BERSAMA EL KOKO [PVZ BATTLE FOR NEIGHBORVILLE #2]",
         "publishedAt": "2022-05-16T17:58:21Z",
         "duration": "PT2H38M39S",
-        "viewCount": "2944",
+        "viewCount": "2945",
         "likeCount": "115",
         "commentCount": "2"
     },
@@ -2119,8 +2344,8 @@
         "title": "APEX LEGENDS",
         "publishedAt": "2022-05-13T19:14:57Z",
         "duration": "PT2H10M18S",
-        "viewCount": "1609",
-        "likeCount": "85",
+        "viewCount": "1613",
+        "likeCount": "84",
         "commentCount": "1"
     },
     {
@@ -2128,7 +2353,7 @@
         "title": "BERAKHIR SUDAH GAME DISTURBING INI [DOKI DOKI LITERATURE CLUB]",
         "publishedAt": "2022-05-13T16:56:36Z",
         "duration": "PT59M41S",
-        "viewCount": "1261",
+        "viewCount": "1268",
         "likeCount": "85",
         "commentCount": "3"
     },
@@ -2137,7 +2362,7 @@
         "title": "GAME JADUL TERLAHIR KEMBALI [PLANTS VS ZOMBIES BATTLE FOR NEIGHBORVILLE]",
         "publishedAt": "2022-05-11T16:04:45Z",
         "duration": "PT1H41M22S",
-        "viewCount": "3030",
+        "viewCount": "3041",
         "likeCount": "146",
         "commentCount": "1"
     },
@@ -2146,7 +2371,7 @@
         "title": "EL SKUBIDU [ANIMAL SHELTER SIMULATOR]",
         "publishedAt": "2022-05-09T09:30:47Z",
         "duration": "PT1H25M34S",
-        "viewCount": "2380",
+        "viewCount": "2388",
         "likeCount": "124",
         "commentCount": "2"
     },
@@ -2155,7 +2380,7 @@
         "title": "DIA BISA MELIHAT KITA [DOKI DOKI LITERATURE CLUB #4]",
         "publishedAt": "2022-05-07T17:07:42Z",
         "duration": "PT2H10M44S",
-        "viewCount": "2090",
+        "viewCount": "2103",
         "likeCount": "104",
         "commentCount": "5"
     },
@@ -2164,7 +2389,7 @@
         "title": "REKOR SAWERIA!!!",
         "publishedAt": "2022-05-05T19:12:02Z",
         "duration": "PT2H19M53S",
-        "viewCount": "3792",
+        "viewCount": "3816",
         "likeCount": "154",
         "commentCount": "0"
     },
@@ -2173,8 +2398,8 @@
         "title": "ADA STALKER DI KEDAI KOPI KU [THE CLOSING SHIFT]",
         "publishedAt": "2022-05-04T17:51:19Z",
         "duration": "PT1H50M38S",
-        "viewCount": "3294",
-        "likeCount": "160",
+        "viewCount": "3331",
+        "likeCount": "159",
         "commentCount": "5"
     },
     {
@@ -2182,8 +2407,8 @@
         "title": "KEMATIAN SAYORI?! [DOKI DOKI LITERATURE CLUB #3]",
         "publishedAt": "2022-05-01T08:58:01Z",
         "duration": "PT1H44M21S",
-        "viewCount": "1565",
-        "likeCount": "86",
+        "viewCount": "1591",
+        "likeCount": "87",
         "commentCount": "4"
     },
     {
@@ -2191,8 +2416,8 @@
         "title": "EL INTEL [HITMAN 3]",
         "publishedAt": "2022-04-30T19:22:00Z",
         "duration": "PT1H35M30S",
-        "viewCount": "2403",
-        "likeCount": "93",
+        "viewCount": "2406",
+        "likeCount": "92",
         "commentCount": "3"
     },
     {
@@ -2200,7 +2425,7 @@
         "title": "SKILL GUA KOK MENURUN YA SAT [THIEF SIMULATOR #5]",
         "publishedAt": "2022-04-30T16:47:16Z",
         "duration": "PT1H10M8S",
-        "viewCount": "2244",
+        "viewCount": "2250",
         "likeCount": "100",
         "commentCount": "3"
     },
@@ -2209,7 +2434,7 @@
         "title": "MULAI MEMANAS BUNG [DOKI DOKI LITERATURE CLUB #2]",
         "publishedAt": "2022-04-27T20:29:01Z",
         "duration": "PT2H45M14S",
-        "viewCount": "2943",
+        "viewCount": "2969",
         "likeCount": "108",
         "commentCount": "2"
     },
@@ -2218,8 +2443,8 @@
         "title": "THE CONVENIENCE STORE",
         "publishedAt": "2022-04-26T19:16:09Z",
         "duration": "PT2H3M34S",
-        "viewCount": "3563",
-        "likeCount": "164",
+        "viewCount": "3595",
+        "likeCount": "163",
         "commentCount": "6"
     },
     {
@@ -2227,7 +2452,7 @@
         "title": "Shopee Big Ramadan Live Shopping",
         "publishedAt": "2022-04-26T15:19:45Z",
         "duration": "PT1H5M41S",
-        "viewCount": "2101",
+        "viewCount": "2107",
         "likeCount": "167",
         "commentCount": "1"
     },
@@ -2236,7 +2461,7 @@
         "title": "MEMBASI LABA-LABA PAKE BOM [KILL IT WITH FIRE]",
         "publishedAt": "2022-04-25T17:26:41Z",
         "duration": "PT1H26M13S",
-        "viewCount": "2194",
+        "viewCount": "2203",
         "likeCount": "103",
         "commentCount": "0"
     },
@@ -2245,7 +2470,7 @@
         "title": "HAPPY BIRTHDAY PARA BEDEBAH",
         "publishedAt": "2022-04-25T15:59:25Z",
         "duration": "PT1H17S",
-        "viewCount": "3703",
+        "viewCount": "3712",
         "likeCount": "159",
         "commentCount": "3"
     },
@@ -2254,7 +2479,7 @@
         "title": "Gua baru inget kenapa gua uninstall game ini. [Dead by Daylight]",
         "publishedAt": "2022-04-23T20:13:45Z",
         "duration": "PT1H8M52S",
-        "viewCount": "2449",
+        "viewCount": "2458",
         "likeCount": "108",
         "commentCount": "3"
     },
@@ -2263,7 +2488,7 @@
         "title": "DEVOUR TAPI GAK NIAT",
         "publishedAt": "2022-04-23T18:13:13Z",
         "duration": "PT1H1M39S",
-        "viewCount": "3904",
+        "viewCount": "3919",
         "likeCount": "158",
         "commentCount": "3"
     },
@@ -2272,7 +2497,7 @@
         "title": "RUBBER BANDITS BERSAMA PARAH BEDEBAH",
         "publishedAt": "2022-04-23T17:12:13Z",
         "duration": "PT49M38S",
-        "viewCount": "3879",
+        "viewCount": "3894",
         "likeCount": "172",
         "commentCount": "0"
     },
@@ -2281,7 +2506,7 @@
         "title": "KATA VIVI GUA HARUS MAIN GAME HORROR INI [IKAI]",
         "publishedAt": "2022-04-20T19:19:31Z",
         "duration": "PT1H57M20S",
-        "viewCount": "3886",
+        "viewCount": "3900",
         "likeCount": "167",
         "commentCount": "12"
     },
@@ -2290,7 +2515,7 @@
         "title": "KALO BACA PUISINYA BISA MATI! [THE RADIO STATION #2]",
         "publishedAt": "2022-04-17T15:01:14Z",
         "duration": "PT57M58S",
-        "viewCount": "2388",
+        "viewCount": "2395",
         "likeCount": "135",
         "commentCount": "5"
     },
@@ -2299,7 +2524,7 @@
         "title": "ALHAMDULILLAH CUAN [THIEF SIMULATOR #4]",
         "publishedAt": "2022-04-17T10:39:45Z",
         "duration": "PT1H31M29S",
-        "viewCount": "2518",
+        "viewCount": "2525",
         "likeCount": "122",
         "commentCount": "2"
     },
@@ -2308,8 +2533,8 @@
         "title": "KEMATIAN SEORANG PENYIAR RADIO [THE RADIO STATION]",
         "publishedAt": "2022-04-16T18:05:18Z",
         "duration": "PT1H44M25S",
-        "viewCount": "3860",
-        "likeCount": "159",
+        "viewCount": "3872",
+        "likeCount": "160",
         "commentCount": "6"
     },
     {
@@ -2317,8 +2542,8 @@
         "title": "WATASHI MENCARI JODOH [DOKI DOKI LITERATURE CLUB #1]",
         "publishedAt": "2022-04-16T10:00:51Z",
         "duration": "PT1H54M11S",
-        "viewCount": "3269",
-        "likeCount": "170",
+        "viewCount": "3295",
+        "likeCount": "169",
         "commentCount": "5"
     },
     {
@@ -2326,7 +2551,7 @@
         "title": "DIGANGGU TERUS DI MOTEL ANGKER [FEARS TO FATHOM: NORWOOD HITCHIKE]",
         "publishedAt": "2022-04-13T20:45:42Z",
         "duration": "PT1H28M44S",
-        "viewCount": "3815",
+        "viewCount": "3857",
         "likeCount": "166",
         "commentCount": "6"
     },
@@ -2335,8 +2560,8 @@
         "title": "JANGAN KELUAR RUMAH [FEARS TO FATHOM: HOME ALONE]",
         "publishedAt": "2022-04-13T19:07:09Z",
         "duration": "PT59M28S",
-        "viewCount": "4683",
-        "likeCount": "201",
+        "viewCount": "4705",
+        "likeCount": "202",
         "commentCount": "2"
     },
     {
@@ -2344,7 +2569,7 @@
         "title": "HAMPIR KETANGKEP GARA2 DIKIBULIN NETIJEN [THIEF SIMULATOR #3]",
         "publishedAt": "2022-04-13T11:03:49Z",
         "duration": "PT58M2S",
-        "viewCount": "2343",
+        "viewCount": "2359",
         "likeCount": "114",
         "commentCount": "3"
     },
@@ -2353,7 +2578,7 @@
         "title": "MENGUNGKAP MISTERI DI RUMAH SAKIT ANGKER [SUMMER OF '58 #2]",
         "publishedAt": "2022-04-13T08:38:45Z",
         "duration": "PT44M33S",
-        "viewCount": "2426",
+        "viewCount": "2433",
         "likeCount": "130",
         "commentCount": "8"
     },
@@ -2362,7 +2587,7 @@
         "title": "MENTAL GUA ANCUR [SUMMER OF '58]",
         "publishedAt": "2022-04-12T07:54:08Z",
         "duration": "PT2H10M2S",
-        "viewCount": "5927",
+        "viewCount": "5955",
         "likeCount": "211",
         "commentCount": "15"
     },
@@ -2371,8 +2596,8 @@
         "title": "SKILL MENCURIKU SUDAH SEMAKIN YAHUD [THIEF SIMULATOR #2]",
         "publishedAt": "2022-04-11T10:23:49Z",
         "duration": "PT1H29M55S",
-        "viewCount": "4156",
-        "likeCount": "134",
+        "viewCount": "4167",
+        "likeCount": "132",
         "commentCount": "2"
     },
     {
@@ -2380,7 +2605,7 @@
         "title": "PENASARAN SAMA THE BAKCROOMS.",
         "publishedAt": "2022-04-10T09:35:10Z",
         "duration": "PT52M12S",
-        "viewCount": "3208",
+        "viewCount": "3216",
         "likeCount": "156",
         "commentCount": "5"
     },
@@ -2389,7 +2614,7 @@
         "title": "TUTORIAL JADI MALING [THIEF SIMULATOR]",
         "publishedAt": "2022-04-09T10:54:41Z",
         "duration": "PT1H41M58S",
-        "viewCount": "3167",
+        "viewCount": "3174",
         "likeCount": "161",
         "commentCount": "6"
     },
@@ -2398,7 +2623,7 @@
         "title": "BEDEBAH SPESIAL RAMADHAN",
         "publishedAt": "2022-04-06T18:14:09Z",
         "duration": "PT1H34M29S",
-        "viewCount": "7608",
+        "viewCount": "7692",
         "likeCount": "254",
         "commentCount": "10"
     },
@@ -2407,8 +2632,8 @@
         "title": "DEVOUR ADA UPDATE BARU YES",
         "publishedAt": "2022-03-26T06:24:45Z",
         "duration": "PT1H8M45S",
-        "viewCount": "5005",
-        "likeCount": "264",
+        "viewCount": "5048",
+        "likeCount": "262",
         "commentCount": "15"
     },
     {
@@ -2416,7 +2641,7 @@
         "title": "DEVOUR PAKE HAPE MAXTRON CHIBI",
         "publishedAt": "2022-02-16T18:02:04Z",
         "duration": "PT1H26M37S",
-        "viewCount": "7622",
+        "viewCount": "7723",
         "likeCount": "273",
         "commentCount": "20"
     },
@@ -2425,7 +2650,7 @@
         "title": "IKUT SERVER CRAB GAME ORANG",
         "publishedAt": "2022-02-09T17:04:37Z",
         "duration": "PT54M55S",
-        "viewCount": "2725",
+        "viewCount": "2738",
         "likeCount": "160",
         "commentCount": "8"
     },
@@ -2434,8 +2659,8 @@
         "title": "BACK 4 BLOOD BERSAMA BEDEBAHSKUY",
         "publishedAt": "2022-02-06T16:28:23Z",
         "duration": "PT1H46M44S",
-        "viewCount": "4386",
-        "likeCount": "237",
+        "viewCount": "4400",
+        "likeCount": "236",
         "commentCount": "16"
     },
     {
@@ -2443,7 +2668,7 @@
         "title": "VIVI GA BERGUNA [IT TAKES TWO #2]",
         "publishedAt": "2022-02-06T14:32:25Z",
         "duration": "PT48M22S",
-        "viewCount": "2502",
+        "viewCount": "2512",
         "likeCount": "129",
         "commentCount": "4"
     },
@@ -2452,8 +2677,8 @@
         "title": "LIVE STREAM PERTAMA DI 2022! [IT TAKES TWO]",
         "publishedAt": "2022-01-29T16:42:22Z",
         "duration": "PT2H16M18S",
-        "viewCount": "4891",
-        "likeCount": "225",
+        "viewCount": "4904",
+        "likeCount": "224",
         "commentCount": "9"
     },
     {
@@ -2461,7 +2686,7 @@
         "title": "2021 GAMING COMPILATION.",
         "publishedAt": "2022-01-24T03:04:47Z",
         "duration": "PT22M40S",
-        "viewCount": "7604",
+        "viewCount": "7704",
         "likeCount": "555",
         "commentCount": "97"
     },
@@ -2470,7 +2695,7 @@
         "title": "[LIVE STREAM] MAP BARU LUNCH LADY",
         "publishedAt": "2021-12-21T16:20:33Z",
         "duration": "PT33M15S",
-        "viewCount": "4151",
+        "viewCount": "4172",
         "likeCount": "186",
         "commentCount": "5"
     },
@@ -2479,7 +2704,7 @@
         "title": "[LIVE STREAM] NYOBAIN GAME HORROR BARU! [HELLCOMING]",
         "publishedAt": "2021-12-21T15:51:20Z",
         "duration": "PT1H16M44S",
-        "viewCount": "4244",
+        "viewCount": "4260",
         "likeCount": "184",
         "commentCount": "3"
     },
@@ -2488,7 +2713,7 @@
         "title": "[LIVE STREAM] GANG BEAST BERSAMA PARA BEDEBAH!",
         "publishedAt": "2021-12-17T17:17:36Z",
         "duration": "PT1H23M39S",
-        "viewCount": "4603",
+        "viewCount": "4621",
         "likeCount": "206",
         "commentCount": "5"
     },
@@ -2515,16 +2740,16 @@
         "title": "BIRTHDAY LIVE STREAM SPECIAL!",
         "publishedAt": "2021-11-27T18:33:21Z",
         "duration": "PT3H33M23S",
-        "viewCount": "8217",
+        "viewCount": "8261",
         "likeCount": "342",
-        "commentCount": "3"
+        "commentCount": "5"
     },
     {
         "video_id": "yg7AhSjFy18",
         "title": "LANGSUNG MAEN 2 MATCH [PUMMEL PARTY #4]",
         "publishedAt": "2021-11-21T18:01:07Z",
         "duration": "PT1H58M12S",
-        "viewCount": "6380",
+        "viewCount": "6422",
         "likeCount": "183",
         "commentCount": "1"
     },
@@ -2533,7 +2758,7 @@
         "title": "[LIVE STREAM] CRAB GAME YOK!",
         "publishedAt": "2021-11-19T18:01:04Z",
         "duration": "PT57M38S",
-        "viewCount": "3357",
+        "viewCount": "3368",
         "likeCount": "154",
         "commentCount": "3"
     },
@@ -2542,8 +2767,8 @@
         "title": "[LIVE STREAM] CRAB GAME BERSAMA VIEWERS!",
         "publishedAt": "2021-11-17T06:02:40Z",
         "duration": "PT52M57S",
-        "viewCount": "3257",
-        "likeCount": "175",
+        "viewCount": "3269",
+        "likeCount": "174",
         "commentCount": "8"
     },
     {
@@ -2551,7 +2776,7 @@
         "title": "[LIVE STREAM] GAME MACEM APA INI.. (MALUM BERSAMA PARA BEDEBAH)",
         "publishedAt": "2021-11-17T05:04:19Z",
         "duration": "PT28M26S",
-        "viewCount": "3191",
+        "viewCount": "3210",
         "likeCount": "146",
         "commentCount": "6"
     },
@@ -2560,7 +2785,7 @@
         "title": "dahlah.",
         "publishedAt": "2021-11-15T17:35:07Z",
         "duration": "PT2H22M43S",
-        "viewCount": "6224",
+        "viewCount": "6281",
         "likeCount": "213",
         "commentCount": "10"
     },
@@ -2569,8 +2794,8 @@
         "title": "[LIVE STREAM] BACK 4 BLOOD BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-11-15T15:05:19Z",
         "duration": "PT59M45S",
-        "viewCount": "2318",
-        "likeCount": "122",
+        "viewCount": "2324",
+        "likeCount": "121",
         "commentCount": "2"
     },
     {
@@ -2578,7 +2803,7 @@
         "title": "[LIVE STREAM] OHIM NYOBAIN LUNCH LADY!",
         "publishedAt": "2021-11-15T14:04:05Z",
         "duration": "PT40M28S",
-        "viewCount": "3558",
+        "viewCount": "3577",
         "likeCount": "185",
         "commentCount": "1"
     },
@@ -2587,7 +2812,7 @@
         "title": "[LIVE STREAM] BEDEBAH GAMING FULL SQUAD! [PUMMEL PARTY #3]",
         "publishedAt": "2021-11-10T17:46:33Z",
         "duration": "PT1H56M46S",
-        "viewCount": "9127",
+        "viewCount": "9219",
         "likeCount": "267",
         "commentCount": "8"
     },
@@ -2596,7 +2821,7 @@
         "title": "[LIVE STREAM] BACK 4 BLOOD & PUMMEL PARTY BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-11-08T17:41:45Z",
         "duration": "PT1H45M46S",
-        "viewCount": "6441",
+        "viewCount": "6480",
         "likeCount": "239",
         "commentCount": "12"
     },
@@ -2605,8 +2830,8 @@
         "title": "[LIVE STREAM] ANGGOTA BARU PARA BEDEBAH YANG TIDAK DITUNGGU2",
         "publishedAt": "2021-11-06T16:56:29Z",
         "duration": "PT1H5M20S",
-        "viewCount": "3910",
-        "likeCount": "177",
+        "viewCount": "3927",
+        "likeCount": "176",
         "commentCount": "10"
     },
     {
@@ -2614,8 +2839,8 @@
         "title": "[LIVE STREAM] BACK 4 BLOOD BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-11-06T04:54:04Z",
         "duration": "PT59M50S",
-        "viewCount": "2575",
-        "likeCount": "138",
+        "viewCount": "2590",
+        "likeCount": "139",
         "commentCount": "2"
     },
     {
@@ -2623,26 +2848,17 @@
         "title": "[LIVE STREAM] BACK 4 BLOOD BERSAMA VIBAN VIVI BEBAN",
         "publishedAt": "2021-11-05T03:52:04Z",
         "duration": "PT1H36M46S",
-        "viewCount": "2337",
+        "viewCount": "2375",
         "likeCount": "123",
         "commentCount": "4"
-    },
-    {
-        "video_id": "OOyGVK5VBGo",
-        "title": "[LIVE STREAM] BACK 4 BLOOD BERSAMA VIVI!",
-        "publishedAt": "2021-11-04T13:43:42Z",
-        "duration": "P0D",
-        "viewCount": "0",
-        "likeCount": "0",
-        "commentCount": "0"
     },
     {
         "video_id": "fRgGjqEi2YE",
         "title": "[LIVE STREAM] PICO PARK LAGI BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-10-01T14:56:56Z",
         "duration": "PT1H8M19S",
-        "viewCount": "8719",
-        "likeCount": "290",
+        "viewCount": "8798",
+        "likeCount": "291",
         "commentCount": "9"
     },
     {
@@ -2650,7 +2866,7 @@
         "title": "[LIVE STREAM] PARA BEDEBAH ISBEK! [PICO PARK]",
         "publishedAt": "2021-09-22T16:32:23Z",
         "duration": "PT1H48M22S",
-        "viewCount": "10791",
+        "viewCount": "10842",
         "likeCount": "460",
         "commentCount": "26"
     },
@@ -2659,7 +2875,7 @@
         "title": "[LIVE STREAM] GUA GAK BAKAL KAGET [OUTLAST 2]",
         "publishedAt": "2021-08-31T04:29:13Z",
         "duration": "PT1H31M33S",
-        "viewCount": "2081",
+        "viewCount": "2085",
         "likeCount": "139",
         "commentCount": "7"
     },
@@ -2668,7 +2884,7 @@
         "title": "[LIVE STREAM] ENDING DENGAN PLOT TWIST TER-MUTAKHIR ABAD INI [A WAY OUT ] #3",
         "publishedAt": "2021-08-17T15:59:10Z",
         "duration": "PT1H18M13S",
-        "viewCount": "2179",
+        "viewCount": "2185",
         "likeCount": "161",
         "commentCount": "7"
     },
@@ -2677,7 +2893,7 @@
         "title": "[LIVE STREAM]  LOLOS 3 KALI DARI POLISI! [A WAY OUT] #2",
         "publishedAt": "2021-08-15T18:18:16Z",
         "duration": "PT2H17M10S",
-        "viewCount": "3072",
+        "viewCount": "3092",
         "likeCount": "139",
         "commentCount": "2"
     },
@@ -2686,7 +2902,7 @@
         "title": "[LIVE STREAM]  AYO KELUAR DARI PENJARA! [A WAY OUT] #1",
         "publishedAt": "2021-08-14T05:42:59Z",
         "duration": "PT1H45M55S",
-        "viewCount": "3959",
+        "viewCount": "3990",
         "likeCount": "179",
         "commentCount": "9"
     },
@@ -2695,7 +2911,7 @@
         "title": "[LIVE STREAM] GOCEKMANIA! [DEAD BY DAYLIGHT]",
         "publishedAt": "2021-07-28T19:23:59Z",
         "duration": "PT2H15M17S",
-        "viewCount": "2547",
+        "viewCount": "2552",
         "likeCount": "111",
         "commentCount": "2"
     },
@@ -2704,8 +2920,8 @@
         "title": "[LIVE STREAM]  OVERCOOKED BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-07-27T17:36:22Z",
         "duration": "PT1H5M59S",
-        "viewCount": "8908",
-        "likeCount": "253",
+        "viewCount": "8987",
+        "likeCount": "254",
         "commentCount": "10"
     },
     {
@@ -2713,7 +2929,7 @@
         "title": "[LIVE STREAM] AKHIRNYA PUNYA TEMEN! [GTA V ROLEPLAY EXODUS]",
         "publishedAt": "2021-07-23T09:26:37Z",
         "duration": "PT1H39M24S",
-        "viewCount": "3991",
+        "viewCount": "4007",
         "likeCount": "153",
         "commentCount": "7"
     },
@@ -2721,8 +2937,8 @@
         "video_id": "t0xGQjUtCJI",
         "title": "[LIVE STREAM] BEGINI NIH KALO MAEN GTA V ROLEPLAY PAKE INTERNET SAMPAH  [EXODUS]",
         "publishedAt": "2021-07-22T14:24:43Z",
-        "duration": "PT1H15M50S",
-        "viewCount": "3931",
+        "duration": "PT1H12M49S",
+        "viewCount": "3947",
         "likeCount": "137",
         "commentCount": "6"
     },
@@ -2731,7 +2947,7 @@
         "title": "[LIVE STREAM] AKHIRNYA MAEN GTA V ROLEPLAY! [EXODUS]",
         "publishedAt": "2021-07-21T16:56:54Z",
         "duration": "PT3H26M",
-        "viewCount": "8133",
+        "viewCount": "8176",
         "likeCount": "254",
         "commentCount": "7"
     },
@@ -2740,7 +2956,7 @@
         "title": "[LIVE STREAM] OUTLAST 2",
         "publishedAt": "2021-07-19T04:39:53Z",
         "duration": "PT1H38M32S",
-        "viewCount": "1789",
+        "viewCount": "1794",
         "likeCount": "94",
         "commentCount": "0"
     },
@@ -2749,7 +2965,7 @@
         "title": "[LIVE STREAM] THE BLACKOUT CLUB BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-07-11T09:09:04Z",
         "duration": "PT2H54M56S",
-        "viewCount": "5920",
+        "viewCount": "5928",
         "likeCount": "202",
         "commentCount": "1"
     },
@@ -2758,7 +2974,7 @@
         "title": "[LIVE STREAM] DEAD BY DAYLIGHT",
         "publishedAt": "2021-07-09T21:34:21Z",
         "duration": "PT1H24M6S",
-        "viewCount": "2030",
+        "viewCount": "2035",
         "likeCount": "77",
         "commentCount": "1"
     },
@@ -2767,7 +2983,7 @@
         "title": "[LIVE STREAM] GANG BEAST BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-07-04T16:28:46Z",
         "duration": "PT28M42S",
-        "viewCount": "3731",
+        "viewCount": "3745",
         "likeCount": "167",
         "commentCount": "1"
     },
@@ -2776,7 +2992,7 @@
         "title": "[LIVE STREAM] SECRET NEIGHBOR BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-07-04T15:55:36Z",
         "duration": "PT55M36S",
-        "viewCount": "7330",
+        "viewCount": "7415",
         "likeCount": "261",
         "commentCount": "8"
     },
@@ -2785,7 +3001,7 @@
         "title": "[LIVE STREAM] VISAGE",
         "publishedAt": "2021-06-27T15:00:19Z",
         "duration": "PT1H53M3S",
-        "viewCount": "2973",
+        "viewCount": "2983",
         "likeCount": "133",
         "commentCount": "4"
     },
@@ -2794,7 +3010,7 @@
         "title": "[LIVE STREAM] OVERCOOKED 2 BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-06-26T09:04:38Z",
         "duration": "PT1H11M25S",
-        "viewCount": "11145",
+        "viewCount": "11218",
         "likeCount": "307",
         "commentCount": "16"
     },
@@ -2803,7 +3019,7 @@
         "title": "[LIVE STREAM] GILIRAN JADI NEIGHBOR MALAH DIPERMALUKAN - SECRET NEIGHBOR BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-06-26T06:56:02Z",
         "duration": "PT1H11M54S",
-        "viewCount": "6458",
+        "viewCount": "6511",
         "likeCount": "232",
         "commentCount": "3"
     },
@@ -2812,7 +3028,7 @@
         "title": "[LIVE STREAM] MATCH TERTEGANG, PAKE KETAPEL! - SECRET NEIGHBOR BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-06-25T16:05:33Z",
         "duration": "PT1H24M29S",
-        "viewCount": "7418",
+        "viewCount": "7479",
         "likeCount": "214",
         "commentCount": "3"
     },
@@ -2821,7 +3037,7 @@
         "title": "[LIVE STREAM] DEAD BY DAYLIGHT BENTAR DOANG.",
         "publishedAt": "2021-06-25T06:24:11Z",
         "duration": "PT1H14M2S",
-        "viewCount": "1523",
+        "viewCount": "1532",
         "likeCount": "79",
         "commentCount": "0"
     },
@@ -2830,7 +3046,7 @@
         "title": "[LIVE STREAM] BACOK JARAK JAUH PAKE PYRAMID HEAD - DEAD BY DAYLIGHT #4",
         "publishedAt": "2021-06-21T21:43:09Z",
         "duration": "PT52M28S",
-        "viewCount": "1780",
+        "viewCount": "1782",
         "likeCount": "97",
         "commentCount": "3"
     },
@@ -2839,7 +3055,7 @@
         "title": "[LIVE STREAM] LUNCH LADY BERSAMA PARAH BEDEBAH",
         "publishedAt": "2021-06-21T10:18:25Z",
         "duration": "PT30M41S",
-        "viewCount": "5314",
+        "viewCount": "5376",
         "likeCount": "219",
         "commentCount": "6"
     },
@@ -2848,7 +3064,7 @@
         "title": "[LIVE STREAM] KEJAR-KEJARAN TER-TEGANG - AKA MANTO",
         "publishedAt": "2021-06-19T01:28:48Z",
         "duration": "PT1H2M9S",
-        "viewCount": "2830",
+        "viewCount": "2838",
         "likeCount": "130",
         "commentCount": "3"
     },
@@ -2857,7 +3073,7 @@
         "title": "[LIVE STREAM] ORANGNYA BENERAN BISA MASUK KERUMAH GUA? - THE WATSON-SCOTT TEST",
         "publishedAt": "2021-06-18T12:25:39Z",
         "duration": "PT49M11S",
-        "viewCount": "1726",
+        "viewCount": "1735",
         "likeCount": "122",
         "commentCount": "3"
     },
@@ -2866,8 +3082,8 @@
         "title": "[LIVE STREAM] CUMA INI GAME YANG BIKIN GUA ISTIGHFAR 2 JAM - IBLIS",
         "publishedAt": "2021-06-17T16:59:55Z",
         "duration": "PT1H32M6S",
-        "viewCount": "4961",
-        "likeCount": "205",
+        "viewCount": "4995",
+        "likeCount": "206",
         "commentCount": "12"
     },
     {
@@ -2875,7 +3091,7 @@
         "title": "[LIVE STREAM] GILIRAN JADI KILLER MALAH DICURANGIN - DEAD BY DAYLIGHT #3",
         "publishedAt": "2021-06-16T18:25:19Z",
         "duration": "PT2H45M26S",
-        "viewCount": "2926",
+        "viewCount": "2939",
         "likeCount": "115",
         "commentCount": "7"
     },
@@ -2884,7 +3100,7 @@
         "title": "[LIVE STREAM] BEGINI NIH KALO MAEN BERTIGA DOANG - PACIFY WOODS",
         "publishedAt": "2021-06-15T06:15:33Z",
         "duration": "PT57M25S",
-        "viewCount": "3264",
+        "viewCount": "3279",
         "likeCount": "124",
         "commentCount": "6"
     },
@@ -2893,7 +3109,7 @@
         "title": "[LIVE STREAM] TERLALU SUSAH AMPE MAEN GAME LAIN - ESCAPE THE AYUWOKI",
         "publishedAt": "2021-06-14T16:18:05Z",
         "duration": "PT2H26M1S",
-        "viewCount": "2738",
+        "viewCount": "2739",
         "likeCount": "126",
         "commentCount": "1"
     },
@@ -2902,17 +3118,17 @@
         "title": "[LIVE STREAM] NYEREMIN, TAPI AKHIRNYA... - FROM THE DARKNESS",
         "publishedAt": "2021-06-12T07:38:00Z",
         "duration": "PT1H21M35S",
-        "viewCount": "2763",
-        "likeCount": "144",
-        "commentCount": "3"
+        "viewCount": "2779",
+        "likeCount": "145",
+        "commentCount": "2"
     },
     {
         "video_id": "e2smBRCGbe0",
         "title": "[LIVE STREAM] SUSAHNYA JADI SURVIVOR - DEAD BY DAYLIGHT #2",
         "publishedAt": "2021-06-10T06:55:16Z",
         "duration": "PT1H4M49S",
-        "viewCount": "1925",
-        "likeCount": "84",
+        "viewCount": "1943",
+        "likeCount": "85",
         "commentCount": "0"
     },
     {
@@ -2920,7 +3136,7 @@
         "title": "[LIVE STREAM] DICULIK SEKTE PEMANAH API - OUTLAST 2 #2",
         "publishedAt": "2021-06-09T06:26:20Z",
         "duration": "PT1H31M54S",
-        "viewCount": "1627",
+        "viewCount": "1633",
         "likeCount": "88",
         "commentCount": "3"
     },
@@ -2929,7 +3145,7 @@
         "title": "LIVE STREAM DEAD BY DAYLIGHT PERTAMA LANGSUNG DIINCER NURSE.",
         "publishedAt": "2021-06-05T07:04:09Z",
         "duration": "PT53M1S",
-        "viewCount": "2413",
+        "viewCount": "2422",
         "likeCount": "117",
         "commentCount": "5"
     },
@@ -2938,7 +3154,7 @@
         "title": "LIVE STREAM PEMBALASAN DENDAM TERBESAR ABAD INI [ PUMMEL PARTY BERSAMA PARA BEDEBAH #1]",
         "publishedAt": "2021-06-01T15:57:12Z",
         "duration": "PT50M35S",
-        "viewCount": "4892",
+        "viewCount": "4928",
         "likeCount": "215",
         "commentCount": "4"
     },
@@ -2947,7 +3163,7 @@
         "title": "LIVE STREAM GROUNDED BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-05-28T17:27:54Z",
         "duration": "PT1H12M11S",
-        "viewCount": "4157",
+        "viewCount": "4178",
         "likeCount": "164",
         "commentCount": "2"
     },
@@ -2956,8 +3172,8 @@
         "title": "LIVE STREAM MAEN OUTLAST 2",
         "publishedAt": "2021-05-28T15:07:57Z",
         "duration": "PT1H54M18S",
-        "viewCount": "3904",
-        "likeCount": "174",
+        "viewCount": "3925",
+        "likeCount": "173",
         "commentCount": "6"
     },
     {
@@ -2965,7 +3181,7 @@
         "title": "NGETES STREAMING, MAIN CUPHEAD",
         "publishedAt": "2021-05-27T16:10:19Z",
         "duration": "PT51M39S",
-        "viewCount": "2972",
+        "viewCount": "3016",
         "likeCount": "185",
         "commentCount": "9"
     },
@@ -2974,8 +3190,8 @@
         "title": "FITNAH COMPILATION 2021 - SECRET NEIGHBOR BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-05-25T04:05:08Z",
         "duration": "PT22M52S",
-        "viewCount": "8850",
-        "likeCount": "490",
+        "viewCount": "8956",
+        "likeCount": "493",
         "commentCount": "64"
     },
     {
@@ -2983,8 +3199,8 @@
         "title": "DIKEJAR IBLIS AMPE URAT LEHER KESELIMPET - DEAD BY DAYLIGHT BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-05-06T07:42:49Z",
         "duration": "PT11M20S",
-        "viewCount": "8312",
-        "likeCount": "573",
+        "viewCount": "8375",
+        "likeCount": "575",
         "commentCount": "75"
     },
     {
@@ -2992,35 +3208,35 @@
         "title": "MAIN LUNCH LADY BERSAMA PARA BEDEBAH",
         "publishedAt": "2021-04-27T12:20:51Z",
         "duration": "PT15M39S",
-        "viewCount": "22411",
-        "likeCount": "1169",
-        "commentCount": "136"
+        "viewCount": "22563",
+        "likeCount": "1173",
+        "commentCount": "137"
     },
     {
         "video_id": "M9rzFxcrIJs",
         "title": "SURPRISE BUAT PAPAH.",
         "publishedAt": "2021-02-07T04:29:20Z",
         "duration": "PT6M37S",
-        "viewCount": "76443",
-        "likeCount": "4091",
-        "commentCount": "230"
+        "viewCount": "78786",
+        "likeCount": "4136",
+        "commentCount": "234"
     },
     {
         "video_id": "HNnAZBSMD5w",
         "title": "BELEK (EPISODE 2) - MEMBEDAH KONTEN SINETRON INDONESIA FT. DEBI SAGITA",
         "publishedAt": "2021-01-31T13:41:34Z",
         "duration": "PT11M7S",
-        "viewCount": "33263",
-        "likeCount": "2030",
-        "commentCount": "152"
+        "viewCount": "33652",
+        "likeCount": "2039",
+        "commentCount": "154"
     },
     {
         "video_id": "MCLSzk5BObs",
         "title": "BIKIN MINI PC SETUP IDAMAN.",
         "publishedAt": "2021-01-20T06:39:18Z",
         "duration": "PT18M5S",
-        "viewCount": "5731",
-        "likeCount": "413",
+        "viewCount": "5814",
+        "likeCount": "416",
         "commentCount": "63"
     },
     {
@@ -3028,8 +3244,8 @@
         "title": "BELEK (EPISODE 1) - MEMBEDAH VIDEO TIKTOK SECARA PROFESIONAL W/ MARCO IVANOS",
         "publishedAt": "2020-04-24T07:00:36Z",
         "duration": "PT15M40S",
-        "viewCount": "47560",
-        "likeCount": "3492",
+        "viewCount": "47937",
+        "likeCount": "3499",
         "commentCount": "182"
     },
     {
@@ -3037,8 +3253,8 @@
         "title": "MARIO KE JEPANG GES #2 (Airbnb Room Tour & One Piece Tower Tokyo)",
         "publishedAt": "2020-04-14T06:56:00Z",
         "duration": "PT24M15S",
-        "viewCount": "18673",
-        "likeCount": "1234",
+        "viewCount": "18795",
+        "likeCount": "1236",
         "commentCount": "65"
     },
     {
@@ -3046,8 +3262,8 @@
         "title": "MARIO KE JEPANG GES #1",
         "publishedAt": "2020-02-19T10:13:54Z",
         "duration": "PT19M41S",
-        "viewCount": "32082",
-        "likeCount": "2136",
+        "viewCount": "32395",
+        "likeCount": "2134",
         "commentCount": "123"
     },
     {
@@ -3055,8 +3271,8 @@
         "title": "KEJUT-KEJUT MANJHA (LIGHTNING REACTION)",
         "publishedAt": "2020-01-13T06:22:55Z",
         "duration": "PT8M47S",
-        "viewCount": "179523",
-        "likeCount": "8036",
+        "viewCount": "180033",
+        "likeCount": "8038",
         "commentCount": "317"
     },
     {
@@ -3064,8 +3280,8 @@
         "title": "Maen Apex Legends.",
         "publishedAt": "2019-09-28T03:30:40Z",
         "duration": "PT4M42S",
-        "viewCount": "3563",
-        "likeCount": "94",
+        "viewCount": "3697",
+        "likeCount": "96",
         "commentCount": "6"
     },
     {
@@ -3073,17 +3289,17 @@
         "title": "HEY! JANGAN KETAWA",
         "publishedAt": "2019-07-14T12:39:45Z",
         "duration": "PT20M15S",
-        "viewCount": "30150",
-        "likeCount": "823",
-        "commentCount": "38"
+        "viewCount": "30610",
+        "likeCount": "825",
+        "commentCount": "39"
     },
     {
         "video_id": "4i4Zvpv3sJM",
         "title": "FLAMIN' HOT SHOW EP.1 - JASMINE NADIKO KELAPERAN",
         "publishedAt": "2019-06-07T03:30:14Z",
         "duration": "PT21M29S",
-        "viewCount": "41370",
-        "likeCount": "1754",
-        "commentCount": "120"
+        "viewCount": "41838",
+        "likeCount": "1764",
+        "commentCount": "121"
     }
 ]

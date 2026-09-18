@@ -1,14 +1,17 @@
 import requests
 import json
-import os
+# import os
 from dotenv import load_dotenv
 from datetime import date
+from airflow.decorators import task
+from airflow.models import Variable
 
-load_dotenv(dotenv_path="./.env")
-API_KEY = os.getenv("API_KEY")
-CHANNEL_HANDLE = "mariocaesarKA"
+# load_dotenv(dotenv_path="./.env")
+API_KEY = Variable.get("API_KEY")
+CHANNEL_HANDLE = Variable.get("CHANNEL_HANDLE")
 maxResults = 50
 
+@task
 def get_channel_playlistId():
     try :
         url = f"https://youtube.googleapis.com/youtube/v3/channels?part=contentDetails&forHandle={CHANNEL_HANDLE}&key={API_KEY}"
@@ -29,6 +32,7 @@ def get_channel_playlistId():
     except requests.exceptions.RequestException as e:
         raise e
 
+@task
 def get_video_ids(playlistId):
     base_url = f"https://youtube.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults={maxResults}&playlistId={playlistId}&key={API_KEY}"
     video_ids = []
@@ -60,13 +64,16 @@ def get_video_ids(playlistId):
     except requests.exceptions.RequestException as e:
         raise e
 
+@task
 def extract_video_data(video_ids):
     extracted_data = []
 
+    # Fungsi untuk membagi daftar video_id menjadi batch sesuai dengan maxResults (50)
     def batch_list_video(video_id_list, batch_size):
         for i in range(0, len(video_id_list), batch_size):
             yield video_id_list[i:i + batch_size]
     
+    # Melakukan iterasi pada setiap batch video_id untuk mengambil data video secara efisien
     try:
         for batch in batch_list_video(video_ids, maxResults):
             video_ids_str = ",".join(batch)
@@ -100,6 +107,8 @@ def extract_video_data(video_ids):
     except requests.exceptions.RequestException as e:
         raise e
 
+# Fungsi untuk menyimpan data yang telah diekstrak ke dalam file JSON
+@task
 def save_to_json(extracted_data):
     file_path = f"./data/{CHANNEL_HANDLE}_data_{date.today()}.json"
 
