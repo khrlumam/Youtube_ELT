@@ -15,7 +15,7 @@ default_args = {
     # "retry_delay": timedelta(minutes=5),
     "max_active_runs": 1,
     "dagrun_timeout": timedelta(minutes=60),
-    "start_date": pendulum.datetime(2026, 9, 18, tz=local_tz),
+    "start_date": pendulum.now(local_tz)
     # "end_date": pendulum.datetime(2024, 6, 30, tz=local_tz)
 }
 
