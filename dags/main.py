@@ -4,6 +4,7 @@ from datetime import timedelta
 from api.video_stats import get_channel_playlistId, get_video_ids, extract_video_data, save_to_json
 from datawarehouse.dwh import staging_table, core_table
 from dataquality.soda import yt_elt_data_quality
+from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 
 local_tz = pendulum.timezone("Asia/Jakarta")
 
@@ -30,30 +31,40 @@ with DAG(
     description="DAG untuk mengambil data dari YouTube API dan menyimpannya dalam file JSON",
     schedule="10 0 * * *",  # Menjadwalkan DAG untuk berjalan setiap hari pada pukul 00:00
     catchup=False,
-) as dag:
+) as dag_produce:
     # mendefinisikan task untuk mendapatkan playlistId dari channel YouTube
     playlistId = get_channel_playlistId()
     video_ids = get_video_ids(playlistId)
     extracted_data = extract_video_data(video_ids)
     save_to_json_task = save_to_json(extracted_data)
 
+    trigger_update_db = TriggerDagRunOperator(
+        task_id="trigger_update_db",
+        trigger_dag_id="update_db"
+    )
+
     # Menentukan urutan eksekusi task
-    playlistId >> video_ids >> extracted_data >> save_to_json_task
+    playlistId >> video_ids >> extracted_data >> save_to_json_task >> trigger_update_db
 
 # DAG 2: update_db
 with DAG(
     dag_id="update_db",
     default_args=default_args,
     description="DAG untuk memproses data dari file JSON ke kedua schema staging dan production di database PostgreSQL",
-    schedule="20 0 * * *",  # Menjadwalkan DAG untuk berjalan setiap hari pada pukul 00:00
+    schedule=None,
     catchup=False,
-) as dag:
+) as dag_update:
     # mendefinisikan task untuk mendapatkan playlistId dari channel YouTube
     update_staging = staging_table()
     update_core = core_table()
 
+    trigger_data_quality = TriggerDagRunOperator(
+        task_id="trigger_data_quality",
+        trigger_dag_id="data_quality"
+    )
+
     # Menentukan urutan eksekusi task
-    update_staging >> update_core
+    update_staging >> update_core >> trigger_data_quality
 
 # DAG 3: data_quality
 with DAG(
